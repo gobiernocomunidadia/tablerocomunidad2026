@@ -1,0 +1,525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.397781584256556,
+            -34.760967304953475
+          ],
+          [
+            -58.40250051387696,
+            -34.760280942341375
+          ]
+        ]
+      },
+      "properties": {
+        "CGM": "LOMAS",
+        "Obra": "Laprida & Rep. de Siria",
+        "Coordenada punto": "",
+        "Coordenada desde": "-34.760967304953475, -58.397781584256556",
+        "Coordenada hasta": "-34.760280942341375, -58.40250051387696",
+        "Empresa": "BRIALES",
+        "Avance": "25,00%",
+        "Inicio": "2026-01-12T03:00:00.000Z",
+        "Fin": "2026-07-11T03:00:00.000Z",
+        "Estado": "En ejecución",
+        "WKT": "LINESTRING(-58.397781584256556 -34.760967304953475, -58.40250051387696 -34.760280942341375)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43563641355491,
+          -34.72259175393442
+        ]
+      },
+      "properties": {
+        "CGM": "CENTENARIO",
+        "Obra": "VIRGEN DE ITATI & UNAMUNO",
+        "Coordenada punto": "-34.72259175393442, -58.43563641355491",
+        "Coordenada desde": "",
+        "Coordenada hasta": "",
+        "Empresa": "GT",
+        "Avance": "10,00%",
+        "Inicio": "2026-05-19T03:00:00.000Z",
+        "Fin": "2026-06-23T03:00:00.000Z",
+        "Estado": "En ejecución",
+        "WKT": "POINT(-58.43563641355491 -34.72259175393442)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.446326286461,
+            -34.75310362310624
+          ],
+          [
+            -58.447220833332665,
+            -34.75200908943775
+          ]
+        ]
+      },
+      "properties": {
+        "CGM": "SANTA MARTA",
+        "Obra": "VIRGILIO & URUNDAY",
+        "Coordenada punto": "",
+        "Coordenada desde": "-34.75310362310624, -58.446326286461",
+        "Coordenada hasta": "-34.75200908943775, -58.447220833332665",
+        "Empresa": "SERVILUM",
+        "Avance": "75,00%",
+        "Inicio": "2026-04-24T03:00:00.000Z",
+        "Fin": "2026-06-25T03:00:00.000Z",
+        "Estado": "En ejecución",
+        "WKT": "LINESTRING(-58.446326286461 -34.75310362310624, -58.447220833332665 -34.75200908943775)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4357453031215,
+            -34.76441268050749
+          ],
+          [
+            -58.43538616028992,
+            -34.76495260904774
+          ]
+        ]
+      },
+      "properties": {
+        "CGM": "PARQUE BARÓN",
+        "Obra": "FALUCHO & GUARANI",
+        "Coordenada punto": "",
+        "Coordenada desde": "-34.76441268050749, -58.4357453031215",
+        "Coordenada hasta": "-34.76495260904774, -58.43538616028992",
+        "Empresa": "SERVILUM",
+        "Avance": "0,00%",
+        "Inicio": "2026-05-26T03:00:00.000Z",
+        "Fin": "",
+        "Estado": "En ejecución",
+        "WKT": "LINESTRING(-58.4357453031215 -34.76441268050749, -58.43538616028992 -34.76495260904774)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43349538881282,
+          -34.792764472976124
+        ]
+      },
+      "properties": {
+        "CGM": "LLAVALLOL",
+        "Obra": "OLLEROS Y FRIEDRICHS",
+        "Coordenada punto": "-34.792764472976124, -58.43349538881282",
+        "Coordenada desde": "",
+        "Coordenada hasta": "",
+        "Empresa": "VALFOS",
+        "Avance": "25,00%",
+        "Inicio": "2026-05-20T03:00:00.000Z",
+        "Fin": "2026-06-24T03:00:00.000Z",
+        "Estado": "En ejecución",
+        "WKT": "POINT(-58.43349538881282 -34.792764472976124)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.427630791047775,
+          -34.78260716116664
+        ]
+      },
+      "properties": {
+        "CGM": "LLAVALLOL/PÁRQUE BARÓN",
+        "Obra": "MADRID & GARIBALDI (en tres etapas por complicaciones de tránsito y transporte)",
+        "Coordenada punto": "-34.78260716116664, -58.427630791047775",
+        "Coordenada desde": "",
+        "Coordenada hasta": "",
+        "Empresa": "VALFOS",
+        "Avance": "0,00%",
+        "Inicio": "2026-05-28T03:00:00.000Z",
+        "Fin": "2026-07-16T03:00:00.000Z",
+        "Estado": "En ejecución",
+        "WKT": "POINT(-58.427630791047775 -34.78260716116664)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3475444330715,
+            -34.739674283453084
+          ],
+          [
+            -58.342904475642335,
+            -34.75189118875015
+          ]
+        ]
+      },
+      "properties": {
+        "CGM": "SAN JOSÉ",
+        "Obra": "CAAGUAZU & LYNCH",
+        "Coordenada punto": "",
+        "Coordenada desde": "-34.739674283453084, -58.3475444330715",
+        "Coordenada hasta": "-34.75189118875015, -58.342904475642335",
+        "Empresa": "SERVILUM",
+        "Avance": "0,00%",
+        "Inicio": "2026-05-28T03:00:00.000Z",
+        "Fin": "",
+        "Estado": "En ejecución",
+        "WKT": "LINESTRING(-58.3475444330715 -34.739674283453084, -58.342904475642335 -34.75189118875015)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.39446311628427,
+            -34.75042807716177
+          ],
+          [
+            -58.39656146366183,
+            -34.76664331972595
+          ]
+        ]
+      },
+      "properties": {
+        "CGM": "LOMAS",
+        "Obra": "ALSINA & GALLO",
+        "Coordenada punto": "",
+        "Coordenada desde": "-34.75042807716177, -58.39446311628427",
+        "Coordenada hasta": "-34.76664331972595, -58.39656146366183",
+        "Empresa": "PREDIAL",
+        "Avance": "0,00%",
+        "Inicio": "2026-06-01T03:00:00.000Z",
+        "Fin": "",
+        "Estado": "En ejecución",
+        "WKT": "LINESTRING(-58.39446311628427 -34.75042807716177, -58.39656146366183 -34.76664331972595)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.40470452388109,
+            -34.741784271447365
+          ],
+          [
+            -58.404461874614455,
+            -34.740591111824905
+          ]
+        ]
+      },
+      "properties": {
+        "CGM": "BANFIELD",
+        "Obra": "ALVEAR & FRENCH",
+        "Coordenada punto": "",
+        "Coordenada desde": "-34.741784271447365, -58.40470452388109",
+        "Coordenada hasta": "-34.740591111824905, -58.404461874614455",
+        "Empresa": "BASAA",
+        "Avance": "0,00%",
+        "Inicio": "2026-05-26T03:00:00.000Z",
+        "Fin": "",
+        "Estado": "En ejecución",
+        "WKT": "LINESTRING(-58.40470452388109 -34.741784271447365, -58.404461874614455 -34.740591111824905)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.404461874614455,
+            -34.740591111824905
+          ],
+          [
+            -58.405883584532056,
+            -34.74042669355778
+          ]
+        ]
+      },
+      "properties": {
+        "CGM": "BANFIELD",
+        "Obra": "R. PEÑA & ALVEAR",
+        "Coordenada punto": "",
+        "Coordenada desde": "-34.740591111824905, -58.404461874614455",
+        "Coordenada hasta": "-34.74042669355778, -58.405883584532056",
+        "Empresa": "BASAA",
+        "Avance": "0,00%",
+        "Inicio": "2026-05-27T03:00:00.000Z",
+        "Fin": "",
+        "Estado": "En ejecución",
+        "WKT": "LINESTRING(-58.404461874614455 -34.740591111824905, -58.405883584532056 -34.74042669355778)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.404461874614455,
+            -34.740591111824905
+          ],
+          [
+            -58.40303809499572,
+            -34.7407523579384
+          ]
+        ]
+      },
+      "properties": {
+        "CGM": "BANFIELD",
+        "Obra": "R. PEÑA & ALVEAR",
+        "Coordenada punto": "",
+        "Coordenada desde": "-34.740591111824905, -58.404461874614455",
+        "Coordenada hasta": "-34.7407523579384, -58.40303809499572",
+        "Empresa": "BASAA",
+        "Avance": "0,00%",
+        "Inicio": "2026-05-28T03:00:00.000Z",
+        "Fin": "",
+        "Estado": "En ejecución",
+        "WKT": "LINESTRING(-58.404461874614455 -34.740591111824905, -58.40303809499572 -34.7407523579384)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40174721905183,
+          -34.742017579168625
+        ]
+      },
+      "properties": {
+        "CGM": "BANFIELD",
+        "Obra": "AZARA 1501 Y FRENCH",
+        "Coordenada punto": "-34.742017579168625, -58.40174721905183",
+        "Coordenada desde": "",
+        "Coordenada hasta": "",
+        "Empresa": "BASAA",
+        "Avance": "0,00%",
+        "Inicio": "2026-05-29T03:00:00.000Z",
+        "Fin": "",
+        "Estado": "En ejecución",
+        "WKT": "POINT(-58.40174721905183 -34.742017579168625)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4063867494859,
+          -34.79040802614884
+        ]
+      },
+      "properties": {
+        "CGM": "TURDERA",
+        "Obra": "CLUB ALUMNI",
+        "Coordenada punto": "-34.79040802614884, -58.4063867494859",
+        "Coordenada desde": "",
+        "Coordenada hasta": "",
+        "Empresa": "SERVILUM",
+        "Avance": "25,00%",
+        "Inicio": "2026-05-19T03:00:00.000Z",
+        "Fin": "2026-06-18T03:00:00.000Z",
+        "Estado": "En ejecución",
+        "WKT": "POINT(-58.4063867494859 -34.79040802614884)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.47572877193138,
+            -34.72826114129623
+          ],
+          [
+            -58.47499268232215,
+            -34.7279062656979
+          ]
+        ]
+      },
+      "properties": {
+        "CGM": "LAMADRID",
+        "Obra": "METAN & NEWTON",
+        "Coordenada punto": "",
+        "Coordenada desde": "-34.72826114129623, -58.47572877193138",
+        "Coordenada hasta": "-34.7279062656979, -58.47499268232215",
+        "Empresa": "VALFOS",
+        "Avance": "75,00%",
+        "Inicio": "2026-04-29T03:00:00.000Z",
+        "Fin": "",
+        "Estado": "En ejecución",
+        "WKT": "LINESTRING(-58.47572877193138 -34.72826114129623, -58.47499268232215 -34.7279062656979)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.47499268232215,
+            -34.7279062656979
+          ],
+          [
+            -58.473926576048,
+            -34.72727184596849
+          ]
+        ]
+      },
+      "properties": {
+        "CGM": "LAMADRID",
+        "Obra": "METAN & TERRADA",
+        "Coordenada punto": "",
+        "Coordenada desde": "-34.7279062656979, -58.47499268232215",
+        "Coordenada hasta": "-34.72727184596849, -58.473926576048",
+        "Empresa": "VALFOS",
+        "Avance": "75,00%",
+        "Inicio": "2026-05-04T03:00:00.000Z",
+        "Fin": "",
+        "Estado": "En ejecución",
+        "WKT": "LINESTRING(-58.47499268232215 -34.7279062656979, -58.473926576048 -34.72727184596849)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42137720954408,
+          -34.806142537911676
+        ]
+      },
+      "properties": {
+        "CGM": "LLAVALLOL",
+        "Obra": "ETAPA 2 - Doyhenard / Melber",
+        "Coordenada punto": "-34.806142537911676, -58.42137720954408",
+        "Coordenada desde": "",
+        "Coordenada hasta": "",
+        "Empresa": "BRIALES",
+        "Avance": "20,00%",
+        "Inicio": "2026-05-13T03:00:00.000Z",
+        "Fin": "2026-06-30T03:00:00.000Z",
+        "Estado": "En ejecución",
+        "WKT": "POINT(-58.42137720954408 -34.806142537911676)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41480717893099,
+          -34.79770534967909
+        ]
+      },
+      "properties": {
+        "CGM": "LLAVALLOL",
+        "Obra": "CIS 25 DE MAYO - LOTE 1",
+        "Coordenada punto": "-34.79770534967909, -58.41480717893099",
+        "Coordenada desde": "",
+        "Coordenada hasta": "",
+        "Empresa": "ALTO SUR",
+        "Avance": "65,00%",
+        "Inicio": "2025-06-03T03:00:00.000Z",
+        "Fin": "2026-06-29T03:00:00.000Z",
+        "Estado": "En ejecución",
+        "WKT": "POINT(-58.41480717893099 -34.79770534967909)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43699832145489,
+          -34.72881048246996
+        ]
+      },
+      "properties": {
+        "CGM": "CENTENARIO",
+        "Obra": "CIS EVA PERON - LOTE 2",
+        "Coordenada punto": "-34.72881048246996, -58.43699832145489",
+        "Coordenada desde": "",
+        "Coordenada hasta": "",
+        "Empresa": "GAMA",
+        "Avance": "70,00%",
+        "Inicio": "2025-06-03T03:00:00.000Z",
+        "Fin": "2026-07-24T03:00:00.000Z",
+        "Estado": "En ejecución",
+        "WKT": "POINT(-58.43699832145489 -34.72881048246996)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43252631354047,
+          -34.71725197112617
+        ]
+      },
+      "properties": {
+        "CGM": "CENTENARIO",
+        "Obra": "CIS LUIS AGOTE - LOTE 2",
+        "Coordenada punto": "-34.71725197112617, -58.43252631354047",
+        "Coordenada desde": "",
+        "Coordenada hasta": "",
+        "Empresa": "GAMA",
+        "Avance": "38,00%",
+        "Inicio": "2025-06-03T03:00:00.000Z",
+        "Fin": "2026-10-02T03:00:00.000Z",
+        "Estado": "En ejecución",
+        "WKT": "POINT(-58.43252631354047 -34.71725197112617)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35982018824653,
+          -34.75613963970336
+        ]
+      },
+      "properties": {
+        "CGM": "SAN JOSE",
+        "Obra": "RECUPERACION DE ESPACIO EN OTTAWA & EL TALA",
+        "Coordenada punto": "-34.75613963970336, -58.35982018824653",
+        "Coordenada desde": "",
+        "Coordenada hasta": "",
+        "Empresa": "BAUCO",
+        "Avance": "95,00%",
+        "Inicio": "2025-10-03T03:00:00.000Z",
+        "Fin": "2026-06-19T03:00:00.000Z",
+        "Estado": "En ejecución",
+        "WKT": "POINT(-58.35982018824653 -34.75613963970336)"
+      }
+    }
+  ]
+}
