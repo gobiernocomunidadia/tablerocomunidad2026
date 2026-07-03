@@ -528754,8 +528754,8 @@
     "dominio": "AH375EI",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "03/07/2026"
   },
   {
@@ -528915,9 +528915,9 @@
     "dirección": "CPU",
     "dominio": "AH418SG",
     "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falla mecánica",
     "fecha": "03/07/2026"
   },
   {
@@ -528952,8 +528952,8 @@
     "dominio": "AH418SO",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "03/07/2026"
   },
   {
@@ -529023,7 +529023,7 @@
     "dirección": "CPU",
     "dominio": "AH418SW",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
+    "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/07/2026"
@@ -529050,8 +529050,8 @@
     "dirección": "CPU",
     "dominio": "AH418SZ",
     "tipo": "Patrulla",
-    "estado": "Taller externo",
-    "no_salió_a_servicio_hoy": true,
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "03/07/2026"
   },
