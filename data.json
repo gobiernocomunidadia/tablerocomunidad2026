@@ -566131,8 +566131,8 @@
     "dominio": "A125WXJ",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "No programado / Sin servicio asignado",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "07/07/2026"
   },
   {
@@ -566158,8 +566158,8 @@
     "dominio": "A125WXR",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "No programado / Sin servicio asignado",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "07/07/2026"
   },
   {
@@ -566221,8 +566221,8 @@
     "dominio": "A145FPJ",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "No programado / Sin servicio asignado",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "07/07/2026"
   },
   {
@@ -566302,8 +566302,8 @@
     "dominio": "A179FSV",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "No programado / Sin servicio asignado",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "07/07/2026"
   },
   {
@@ -566311,8 +566311,8 @@
     "dominio": "A179FSX",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "No programado / Sin servicio asignado",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "07/07/2026"
   },
   {
@@ -566797,7 +566797,7 @@
     "dominio": "AE807UG",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -566806,7 +566806,7 @@
     "dominio": "AE807UH",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -566815,7 +566815,7 @@
     "dominio": "AE807UL",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -566833,7 +566833,7 @@
     "dominio": "AE899KU",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -566887,7 +566887,7 @@
     "dominio": "AE914AH",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -566923,7 +566923,7 @@
     "dominio": "AE914AP",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -566932,7 +566932,7 @@
     "dominio": "AE914AV",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -566941,8 +566941,8 @@
     "dominio": "AE914AW",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "07/07/2026"
   },
   {
@@ -566986,7 +566986,7 @@
     "dominio": "AF276PS",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -566995,7 +566995,7 @@
     "dominio": "AF276PT",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567013,7 +567013,7 @@
     "dominio": "AF301SC",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567058,7 +567058,7 @@
     "dominio": "AF301SI",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567130,7 +567130,7 @@
     "dominio": "AF301SR",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567229,7 +567229,7 @@
     "dominio": "AF335BF",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567283,7 +567283,7 @@
     "dominio": "AH375EZ",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567292,7 +567292,7 @@
     "dominio": "AF496DD",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567319,7 +567319,7 @@
     "dominio": "AF520QM",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567364,7 +567364,7 @@
     "dominio": "AF520QT",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567373,7 +567373,7 @@
     "dominio": "AF559KY",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567382,7 +567382,7 @@
     "dominio": "AF559KZ",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567409,7 +567409,7 @@
     "dominio": "AF582AD",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567418,7 +567418,7 @@
     "dominio": "AF582AE",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567427,7 +567427,7 @@
     "dominio": "AF582AF",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567499,7 +567499,7 @@
     "dominio": "AF723YQ",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567553,7 +567553,7 @@
     "dominio": "AF827KT",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567562,7 +567562,7 @@
     "dominio": "AF827KU",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567589,7 +567589,7 @@
     "dominio": "AF827KY",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567598,7 +567598,7 @@
     "dominio": "AF842AA",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567697,7 +567697,7 @@
     "dominio": "AF842AP",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567796,7 +567796,7 @@
     "dominio": "AF846XD",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567805,7 +567805,7 @@
     "dominio": "AF846XE",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567814,7 +567814,7 @@
     "dominio": "AF846XF",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567859,7 +567859,7 @@
     "dominio": "AF846XK",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567886,7 +567886,7 @@
     "dominio": "AH223SA",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567895,7 +567895,7 @@
     "dominio": "AH223SB",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567913,7 +567913,7 @@
     "dominio": "AH223SD",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567922,7 +567922,7 @@
     "dominio": "AH223SE",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567931,7 +567931,7 @@
     "dominio": "AH223SF",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567958,7 +567958,7 @@
     "dominio": "AH223SI",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567967,7 +567967,7 @@
     "dominio": "AH223SJ",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567976,7 +567976,7 @@
     "dominio": "AH375EG",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567985,7 +567985,7 @@
     "dominio": "AH375EH",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -567994,7 +567994,7 @@
     "dominio": "AH375EI",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568003,7 +568003,7 @@
     "dominio": "AH375EJ",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568021,7 +568021,7 @@
     "dominio": "AH375EM",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568030,7 +568030,7 @@
     "dominio": "AH375EN",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568039,7 +568039,7 @@
     "dominio": "AH375EO",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568048,7 +568048,7 @@
     "dominio": "AH375EP",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568084,7 +568084,7 @@
     "dominio": "AH375ET",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568093,7 +568093,7 @@
     "dominio": "AH375EU",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568102,7 +568102,7 @@
     "dominio": "AH375EV",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568111,7 +568111,7 @@
     "dominio": "AH375EW",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568129,7 +568129,7 @@
     "dominio": "AH375EY",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568138,7 +568138,7 @@
     "dominio": "AH418SA",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568147,7 +568147,7 @@
     "dominio": "AH418SD",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568165,7 +568165,7 @@
     "dominio": "AH418SI",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568174,7 +568174,7 @@
     "dominio": "AH418SK",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568192,7 +568192,7 @@
     "dominio": "AH418SO",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568210,7 +568210,7 @@
     "dominio": "AH418SQ",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568228,7 +568228,7 @@
     "dominio": "AH418SS",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568237,7 +568237,7 @@
     "dominio": "AH418ST",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568264,7 +568264,7 @@
     "dominio": "AH418SW",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568282,7 +568282,7 @@
     "dominio": "AH418SY",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568291,7 +568291,7 @@
     "dominio": "AH418SZ",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568300,7 +568300,7 @@
     "dominio": "AH418TA",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568309,7 +568309,7 @@
     "dominio": "AE365YY ",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568318,7 +568318,7 @@
     "dominio": "AC028GB",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568327,7 +568327,7 @@
     "dominio": "AF842AK",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568344,7 +568344,7 @@
     "dirección": "CPU",
     "dominio": "AE404OZ",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
+    "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "07/07/2026"
@@ -568354,7 +568354,7 @@
     "dominio": "AE432DC",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
@@ -568363,7 +568363,7 @@
     "dominio": "AE459SZ",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/07/2026"
   },
