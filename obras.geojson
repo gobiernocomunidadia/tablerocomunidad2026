@@ -23,10 +23,10 @@
         "Coordenada desde": "-34.760967304953475, -58.397781584256556",
         "Coordenada hasta": "-34.760280942341375, -58.40250051387696",
         "Empresa": "BRIALES",
-        "Avance": "25,00%",
+        "Avance": "100,00%",
         "Inicio": "2026-01-12T03:00:00.000Z",
         "Fin": "2026-07-11T03:00:00.000Z",
-        "Estado": "En ejecución",
+        "Estado": "Finalizado",
         "WKT": "LINESTRING(-58.397781584256556 -34.760967304953475, -58.40250051387696 -34.760280942341375)"
       }
     },
@@ -46,10 +46,10 @@
         "Coordenada desde": "",
         "Coordenada hasta": "",
         "Empresa": "GT",
-        "Avance": "10,00%",
+        "Avance": "100,00%",
         "Inicio": "2026-05-19T03:00:00.000Z",
         "Fin": "2026-06-23T03:00:00.000Z",
-        "Estado": "En ejecución",
+        "Estado": "Finalizado",
         "WKT": "POINT(-58.43563641355491 -34.72259175393442)"
       }
     },
@@ -75,10 +75,10 @@
         "Coordenada desde": "-34.75310362310624, -58.446326286461",
         "Coordenada hasta": "-34.75200908943775, -58.447220833332665",
         "Empresa": "SERVILUM",
-        "Avance": "75,00%",
+        "Avance": "100,00%",
         "Inicio": "2026-04-24T03:00:00.000Z",
-        "Fin": "2026-06-25T03:00:00.000Z",
-        "Estado": "En ejecución",
+        "Fin": "2026-06-05T03:00:00.000Z",
+        "Estado": "Finalizado",
         "WKT": "LINESTRING(-58.446326286461 -34.75310362310624, -58.447220833332665 -34.75200908943775)"
       }
     },
@@ -104,10 +104,10 @@
         "Coordenada desde": "-34.76441268050749, -58.4357453031215",
         "Coordenada hasta": "-34.76495260904774, -58.43538616028992",
         "Empresa": "SERVILUM",
-        "Avance": "0,00%",
+        "Avance": "100,00%",
         "Inicio": "2026-05-26T03:00:00.000Z",
-        "Fin": "",
-        "Estado": "En ejecución",
+        "Fin": "2026-06-24T03:00:00.000Z",
+        "Estado": "Finalizado",
         "WKT": "LINESTRING(-58.4357453031215 -34.76441268050749, -58.43538616028992 -34.76495260904774)"
       }
     },
@@ -127,10 +127,10 @@
         "Coordenada desde": "",
         "Coordenada hasta": "",
         "Empresa": "VALFOS",
-        "Avance": "25,00%",
+        "Avance": "100,00%",
         "Inicio": "2026-05-20T03:00:00.000Z",
-        "Fin": "2026-06-24T03:00:00.000Z",
-        "Estado": "En ejecución",
+        "Fin": "2026-07-03T03:00:00.000Z",
+        "Estado": "Finalizado",
         "WKT": "POINT(-58.43349538881282 -34.792764472976124)"
       }
     },
@@ -151,8 +151,8 @@
         "Coordenada hasta": "",
         "Empresa": "VALFOS",
         "Avance": "0,00%",
-        "Inicio": "2026-05-28T03:00:00.000Z",
-        "Fin": "2026-07-16T03:00:00.000Z",
+        "Inicio": "2026-06-29T03:00:00.000Z",
+        "Fin": "",
         "Estado": "En ejecución",
         "WKT": "POINT(-58.427630791047775 -34.78260716116664)"
       }
@@ -179,7 +179,7 @@
         "Coordenada desde": "-34.739674283453084, -58.3475444330715",
         "Coordenada hasta": "-34.75189118875015, -58.342904475642335",
         "Empresa": "SERVILUM",
-        "Avance": "0,00%",
+        "Avance": "50,00%",
         "Inicio": "2026-05-28T03:00:00.000Z",
         "Fin": "",
         "Estado": "En ejecución",
@@ -209,7 +209,7 @@
         "Coordenada hasta": "-34.76664331972595, -58.39656146366183",
         "Empresa": "PREDIAL",
         "Avance": "0,00%",
-        "Inicio": "2026-06-01T03:00:00.000Z",
+        "Inicio": "2026-06-22T03:00:00.000Z",
         "Fin": "",
         "Estado": "En ejecución",
         "WKT": "LINESTRING(-58.39446311628427 -34.75042807716177, -58.39656146366183 -34.76664331972595)"
@@ -239,8 +239,8 @@
         "Empresa": "BASAA",
         "Avance": "0,00%",
         "Inicio": "2026-05-26T03:00:00.000Z",
-        "Fin": "",
-        "Estado": "En ejecución",
+        "Fin": "2026-05-27T03:00:00.000Z",
+        "Estado": "Finalizado",
         "WKT": "LINESTRING(-58.40470452388109 -34.741784271447365, -58.404461874614455 -34.740591111824905)"
       }
     },
@@ -295,10 +295,10 @@
         "Coordenada desde": "-34.740591111824905, -58.404461874614455",
         "Coordenada hasta": "-34.7407523579384, -58.40303809499572",
         "Empresa": "BASAA",
-        "Avance": "0,00%",
+        "Avance": "100,00%",
         "Inicio": "2026-05-28T03:00:00.000Z",
-        "Fin": "",
-        "Estado": "En ejecución",
+        "Fin": "2026-05-29T03:00:00.000Z",
+        "Estado": "Finalizado",
         "WKT": "LINESTRING(-58.404461874614455 -34.740591111824905, -58.40303809499572 -34.7407523579384)"
       }
     },
@@ -341,10 +341,10 @@
         "Coordenada desde": "",
         "Coordenada hasta": "",
         "Empresa": "SERVILUM",
-        "Avance": "25,00%",
+        "Avance": "100,00%",
         "Inicio": "2026-05-19T03:00:00.000Z",
-        "Fin": "2026-06-18T03:00:00.000Z",
-        "Estado": "En ejecución",
+        "Fin": "2026-06-16T03:00:00.000Z",
+        "Estado": "Finalizado",
         "WKT": "POINT(-58.4063867494859 -34.79040802614884)"
       }
     },
@@ -422,10 +422,10 @@
         "Coordenada desde": "",
         "Coordenada hasta": "",
         "Empresa": "BRIALES",
-        "Avance": "20,00%",
+        "Avance": "100,00%",
         "Inicio": "2026-05-13T03:00:00.000Z",
         "Fin": "2026-06-30T03:00:00.000Z",
-        "Estado": "En ejecución",
+        "Estado": "Finalizado",
         "WKT": "POINT(-58.42137720954408 -34.806142537911676)"
       }
     },
@@ -445,10 +445,10 @@
         "Coordenada desde": "",
         "Coordenada hasta": "",
         "Empresa": "ALTO SUR",
-        "Avance": "65,00%",
+        "Avance": "100,00%",
         "Inicio": "2025-06-03T03:00:00.000Z",
         "Fin": "2026-06-29T03:00:00.000Z",
-        "Estado": "En ejecución",
+        "Estado": "Finalizado",
         "WKT": "POINT(-58.41480717893099 -34.79770534967909)"
       }
     },
@@ -514,10 +514,10 @@
         "Coordenada desde": "",
         "Coordenada hasta": "",
         "Empresa": "BAUCO",
-        "Avance": "95,00%",
+        "Avance": "100,00%",
         "Inicio": "2025-10-03T03:00:00.000Z",
         "Fin": "2026-06-19T03:00:00.000Z",
-        "Estado": "En ejecución",
+        "Estado": "Finalizado",
         "WKT": "POINT(-58.35982018824653 -34.75613963970336)"
       }
     }
