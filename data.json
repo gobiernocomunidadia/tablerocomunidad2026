@@ -654421,8 +654421,8 @@
     "dominio": "A125WXJ",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "17/07/2026"
   },
   {
@@ -654511,8 +654511,8 @@
     "dominio": "A145FPJ",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "17/07/2026"
   },
   {
@@ -654601,8 +654601,8 @@
     "dominio": "A179FSX",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "17/07/2026"
   },
   {
@@ -654645,9 +654645,9 @@
     "dirección": "CPU",
     "dominio": "AB012RX",
     "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "estado": "Taller externo",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "En taller",
     "fecha": "17/07/2026"
   },
   {
@@ -654880,8 +654880,8 @@
     "dominio": "AE442IP",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "17/07/2026"
   },
   {
@@ -655663,8 +655663,8 @@
     "dominio": "AF559KY",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "17/07/2026"
   },
   {
@@ -655672,8 +655672,8 @@
     "dominio": "AF559KZ",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "17/07/2026"
   },
   {
@@ -656068,8 +656068,8 @@
     "dominio": "AF846XB",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "17/07/2026"
   },
   {
@@ -656148,9 +656148,9 @@
     "dirección": "CPU",
     "dominio": "AF846XK",
     "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falla mecánica",
     "fecha": "17/07/2026"
   },
   {
@@ -656373,9 +656373,9 @@
     "dirección": "CPU",
     "dominio": "AH375ET",
     "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Baja vida útil de aceite",
     "fecha": "17/07/2026"
   },
   {
@@ -656517,8 +656517,8 @@
     "dirección": "CPU",
     "dominio": "AH418SS",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "17/07/2026"
   },
@@ -656635,8 +656635,8 @@
     "dominio": "AE404OZ",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "17/07/2026"
   },
   {
@@ -656644,8 +656644,8 @@
     "dominio": "AE432DC",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "17/07/2026"
   },
   {
@@ -657642,7 +657642,7 @@
     "dirección": "LOMAS PREVIENE",
     "dominio": "AE459RV",
     "tipo": "Patrulla",
-    "estado": "Operativo",
+    "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "17/07/2026"
