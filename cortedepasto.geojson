@@ -69130,6 +69130,34 @@
       "type": "Feature",
       "properties": {
         "Fecha_str": "17/7/2026",
+        "Inicio Recorrido": "Elizalde & Olimpo",
+        "Fin del Recorrido": "Elizalde & San Juan",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 2066.24,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4888398385013,
+            -34.7392755817
+          ],
+          [
+            -58.4829119614713,
+            -34.7471873967354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "17/7/2026",
         "Inicio Recorrido": "Lisandro de la Torre & Pres. Juan Domingo Peron",
         "Fin del Recorrido": "Lisandro de la Torre & Olivos",
         "CGM": "Santa Marta",
