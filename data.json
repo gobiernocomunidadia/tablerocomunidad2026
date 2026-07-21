@@ -694120,8 +694120,8 @@
     "dominio": "AE442IP",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "21/07/2026"
   },
   {
@@ -694471,8 +694471,8 @@
     "dominio": "AE914AW",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "21/07/2026"
   },
   {
@@ -696765,7 +696765,7 @@
     "dirección": "LOMAS PREVIENE",
     "dominio": "AE452IJ",
     "tipo": "Patrulla",
-    "estado": "Operativo",
+    "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "21/07/2026"
@@ -696783,7 +696783,7 @@
     "dirección": "LOMAS PREVIENE",
     "dominio": "AE452IL",
     "tipo": "Patrulla",
-    "estado": "Operativo",
+    "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "21/07/2026"
@@ -697080,7 +697080,7 @@
     "dirección": "LOMAS PREVIENE",
     "dominio": "AE855IA",
     "tipo": "Patrulla",
-    "estado": "Operativo",
+    "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": false,
     "razón": "Falla mecánica",
     "fecha": "21/07/2026"
