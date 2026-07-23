@@ -713282,7 +713282,7 @@
     "tipo": "Moto",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Por jornada de GPS",
+    "razón": "Falta de chofer",
     "fecha": "23/07/2026"
   },
   {
@@ -713452,8 +713452,8 @@
     "dominio": "A179FSV",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "23/07/2026"
   },
   {
@@ -713461,8 +713461,8 @@
     "dominio": "A179FSX",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "23/07/2026"
   },
   {
@@ -713713,8 +713713,8 @@
     "dominio": "AE432DB",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "23/07/2026"
   },
   {
@@ -713740,8 +713740,8 @@
     "dominio": "AE442IP",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "23/07/2026"
   },
   {
@@ -713965,8 +713965,8 @@
     "dominio": "AE807UL",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "23/07/2026"
   },
   {
@@ -714280,8 +714280,8 @@
     "dominio": "AF301SR",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "23/07/2026"
   },
   {
@@ -714442,8 +714442,8 @@
     "dominio": "AF496DD",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "23/07/2026"
   },
   {
@@ -714504,9 +714504,9 @@
     "dirección": "CPU ",
     "dominio": "AF520QS",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
+    "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "Falta de chofer",
     "fecha": "23/07/2026"
   },
   {
@@ -714514,8 +714514,8 @@
     "dominio": "AF520QT",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "23/07/2026"
   },
   {
@@ -714765,9 +714765,9 @@
     "dirección": "CPU",
     "dominio": "AF842AC",
     "tipo": "Patrulla",
-    "estado": "Taller externo",
+    "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "Falta de chofer",
     "fecha": "23/07/2026"
   },
   {
@@ -715072,8 +715072,8 @@
     "dominio": "AH223SE",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Por jornada de GPS",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "23/07/2026"
   },
   {
@@ -715235,7 +715235,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Está en service",
+    "razón": "Falla mecánica",
     "fecha": "23/07/2026"
   },
   {
@@ -715503,7 +715503,7 @@
     "dirección": "CPU",
     "dominio": "AE432DC",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
+    "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "23/07/2026"
