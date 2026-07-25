@@ -73593,6 +73593,1528 @@
           -34.75243616753117
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Ginebra & Pres. Juan Domingo Perón",
+        "Fin del Recorrido": "Ginebra & Falucho",
+        "CGM": "Albertina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 3428.94,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.444472178197,
+            -34.7238738670713
+          ],
+          [
+            -58.4603743541956,
+            -34.7320544651169
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Campos & Cabrera",
+        "Fin del Recorrido": "Campos & Granaderos",
+        "CGM": "Banfield",
+        "Localidad": "Banfield",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1561.22,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3817511752983,
+            -34.740880128372
+          ],
+          [
+            -58.3837145808272,
+            -34.7477124140185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Montiel & Necol",
+        "Fin del Recorrido": "Montiel & Camino de la Ribera",
+        "CGM": "Budge",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 2073.42,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4568497502307,
+            -34.7160744988547
+          ],
+          [
+            -58.46311,
+            -34.7083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Guaminí & Necol",
+        "Fin del Recorrido": "Guaminí & Camino de la Ribera",
+        "CGM": "Budge",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 2142.56,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4558,
+            -34.71545
+          ],
+          [
+            -58.4622944729142,
+            -34.7074301865877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Predio CFP 402",
+        "Fin del Recorrido": null,
+        "CGM": "Centenario",
+        "Localidad": "Villa Centenario",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4256706889139,
+          -34.7408392318243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Necol & Morazan",
+        "Fin del Recorrido": "Necol & Conesa",
+        "CGM": "Fiorito",
+        "Localidad": "Villa Fiorito",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1350.92,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4436881387573,
+            -34.7087874378967
+          ],
+          [
+            -58.4374378849753,
+            -34.705547120767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Hugo del Carril & Pergamino",
+        "Fin del Recorrido": "Hugo del Carril & Blandengues",
+        "CGM": "Lamadrid",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 228.05,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4729118038495,
+            -34.7209530544986
+          ],
+          [
+            -58.4718496491006,
+            -34.7214909760201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Chaco completo",
+        "Fin del Recorrido": "Chaco & Blandengues",
+        "CGM": "Lamadrid",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 164.83,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4728892646337,
+            -34.7214562947463
+          ],
+          [
+            -58.472149014176,
+            -34.7218795531382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Bolivia completo",
+        "Fin del Recorrido": "Bolivia & Blandengues",
+        "CGM": "Lamadrid",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 158.27,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4734293228716,
+            -34.7222406439402
+          ],
+          [
+            -58.4727104718476,
+            -34.722637394423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Homero & Pergamino",
+        "Fin del Recorrido": "Homero & Blandengues",
+        "CGM": "Lamadrid",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 219.23,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4734484338942,
+            -34.7217181124203
+          ],
+          [
+            -58.4724470247934,
+            -34.7222605993877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Euskadi & Pergamino",
+        "Fin del Recorrido": "Euskadi & Blandengues",
+        "CGM": "Lamadrid",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 226.8,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4740080282559,
+            -34.7224275250815
+          ],
+          [
+            -58.4729920524711,
+            -34.7230129670418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Florencio Varela & Pergamino",
+        "Fin del Recorrido": "Florencio Varela & Blandengues",
+        "CGM": "Lamadrid",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 230.04,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.474268495808,
+            -34.722800389935
+          ],
+          [
+            -58.4732367409768,
+            -34.7233927528284
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Gardel & Pergamino",
+        "Fin del Recorrido": "Gardel & Blandengues",
+        "CGM": "Lamadrid",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 228.84,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4745719531113,
+            -34.7232056913206
+          ],
+          [
+            -58.4735326118475,
+            -34.72377934527
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Santiago del Estero completo",
+        "Fin del Recorrido": "Santiago del Estero & Blandengues",
+        "CGM": "Lamadrid",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 162.44,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4746040069064,
+            -34.7237861002481
+          ],
+          [
+            -58.4738764280645,
+            -34.7242055432692
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Arana Goiri & Pergamino",
+        "Fin del Recorrido": "Arana Goiri & Blandengues",
+        "CGM": "Lamadrid",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 233.91,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.475159358654,
+            -34.7239882105817
+          ],
+          [
+            -58.474079724726,
+            -34.7245529358041
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Pergamino & Bruno Tavano",
+        "Fin del Recorrido": "Pergamino & Arana Goiri",
+        "CGM": "Lamadrid",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 919.81,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.472384505648,
+            -34.7205378682183
+          ],
+          [
+            -58.475159358654,
+            -34.7239882105817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Blandengues & Bruno Tavano",
+        "Fin del Recorrido": "Blandengues & Arana Goiri",
+        "CGM": "Lamadrid",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 886.06,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4715959754714,
+            -34.7211314266019
+          ],
+          [
+            -58.474079724726,
+            -34.7245529358041
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Juan B. Justo & Antartida Argentina",
+        "Fin del Recorrido": "Juan B.Justo hasta cruce peatonal",
+        "CGM": "Llavallol",
+        "Localidad": "Llavallol",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 370.52,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4179816720771,
+            -34.7944056695037
+          ],
+          [
+            -58.4169208245174,
+            -34.7958258224761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "San Vladimiro & Antartida Argentina",
+        "Fin del Recorrido": "San Vladimiro completo",
+        "CGM": "Llavallol",
+        "Localidad": "Llavallol",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 291.04,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4186978992827,
+            -34.7947681473551
+          ],
+          [
+            -58.4178986364156,
+            -34.7959003343863
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Mendoza & Antartida Argentina",
+        "Fin del Recorrido": "Diego Gibson & Mendoza",
+        "CGM": "Llavallol",
+        "Localidad": "Llavallol",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 202.45,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4194973218115,
+            -34.7951657783547
+          ],
+          [
+            -58.418892858557,
+            -34.7959288720435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Diego Gibson & Mendoza",
+        "Fin del Recorrido": "Diego Gibson & Juan B. Justo",
+        "CGM": "Llavallol",
+        "Localidad": "Llavallol",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 318.74,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.418892858557,
+            -34.7959288720435
+          ],
+          [
+            -58.4174042550223,
+            -34.7951805957767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Gral. Frías & Lago Argentino",
+        "Fin del Recorrido": "Gral. Frías & Sixto Fernández",
+        "CGM": "Lomas",
+        "Localidad": "Lomas De Zamora",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1969.28,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4237050750113,
+            -34.7723957599706
+          ],
+          [
+            -58.4229111411622,
+            -34.7635647374589
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Olmos & Bernardo O’Higgins",
+        "Fin del Recorrido": "Olmos & Arana Goiri",
+        "CGM": "Parque Baron",
+        "Localidad": "Lomas De Zamora",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 904.79,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4507763424397,
+            -34.761704140052
+          ],
+          [
+            -58.4465422840988,
+            -34.7595939528731
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Provincias Unidas & Arana Goiri",
+        "Fin del Recorrido": "Provincias Unidas & Iparraguirre",
+        "CGM": "Parque Baron",
+        "Localidad": "Lomas De Zamora",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 484.51,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4457441369795,
+            -34.7606829829137
+          ],
+          [
+            -58.4480095196428,
+            -34.7618155848395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Arana Goiri & Olmos",
+        "Fin del Recorrido": "Arana Goiri & Provincias Unidas",
+        "CGM": "Parque Baron",
+        "Localidad": "Lomas De Zamora",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 288.78,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4465422840988,
+            -34.7595939528731
+          ],
+          [
+            -58.4457322739059,
+            -34.7607089935066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Bustos & Olmos",
+        "Fin del Recorrido": "Bustos & Provincias Unidas",
+        "CGM": "Parque Baron",
+        "Localidad": "Lomas De Zamora",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 287.63,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4477385662146,
+            -34.7601492916929
+          ],
+          [
+            -58.4468944342381,
+            -34.7612410075381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Iparraguirre & Olmos",
+        "Fin del Recorrido": "Iparraguirre & Provincias Unidas",
+        "CGM": "Parque Baron",
+        "Localidad": "Lomas De Zamora",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 294.01,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4488713231021,
+            -34.7606990861381
+          ],
+          [
+            -58.4480095196428,
+            -34.7618155848395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Terrada & Olmos",
+        "Fin del Recorrido": "Terrada & Provincias Unidas",
+        "CGM": "Parque Baron",
+        "Localidad": "Lomas De Zamora",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 295.02,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4499912892437,
+            -34.7612859228531
+          ],
+          [
+            -58.4491417414229,
+            -34.7624140792543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Concepción & Av. Eva Perón",
+        "Fin del Recorrido": "Concepción & Garay",
+        "CGM": "San Jose",
+        "Localidad": "Temperley",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1043.43,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3416783615199,
+            -34.7513605577322
+          ],
+          [
+            -58.3388995930084,
+            -34.7554595100629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Lules & Av. Eva Perón",
+        "Fin del Recorrido": "Lules & Garay",
+        "CGM": "San Jose",
+        "Localidad": "Temperley",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1079.66,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3420845,
+            -34.7515929
+          ],
+          [
+            -58.3403798283514,
+            -34.7562413054481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Av. de la Noria & R. Grigera",
+        "Fin del Recorrido": "Av. de la Noria & Arroyo Santa Catalina",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 669.29,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4796129172906,
+            -34.7333421349117
+          ],
+          [
+            -58.4832714368729,
+            -34.733474329193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Av. de la Noria & Arroyo Sta. Catalina",
+        "Fin del Recorrido": "Arroyo Sta. Catalina & Saladillo",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 132.25,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4832473905074,
+            -34.7334386793774
+          ],
+          [
+            -58.4834405228594,
+            -34.7328655605995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Arroyo Sta. Catalina & Saladillo",
+        "Fin del Recorrido": "Arroyo Sta. Catalina hasta el final",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 208.75,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4834405228594,
+            -34.7328655605995
+          ],
+          [
+            -58.4839327946299,
+            -34.7320185724439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Arroyo Sta. Catalina hasta el final",
+        "Fin del Recorrido": "Arroyo Sta. Catalina & Romero",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 100.27,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4839327946299,
+            -34.7320185724439
+          ],
+          [
+            -58.48367341685,
+            -34.7316212742048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Romero & Av. de la Noria",
+        "Fin del Recorrido": "Romero & Saladillo",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 167.11,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4825828676358,
+            -34.7334198330899
+          ],
+          [
+            -58.4827345,
+            -34.7326788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Romero & Saladillo",
+        "Fin del Recorrido": "Romero & cruce Arroyo Sta Catalina",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 291.13,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4827345,
+            -34.7326788
+          ],
+          [
+            -58.48367341685,
+            -34.7316212742048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Avenida Medrano & Av. de la Noria",
+        "Fin del Recorrido": "Avenida Medrano & Saladillo",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 175.67,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4818909903565,
+            -34.7333696387303
+          ],
+          [
+            -58.481978331675,
+            -34.7325829991075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Avenida Medrano & Saladillo",
+        "Fin del Recorrido": "Avenida Medrano completo",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 431.75,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.481978331675,
+            -34.7325829991075
+          ],
+          [
+            -58.4835539907899,
+            -34.7311365086037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Av. San Juan & Av. de la Noria",
+        "Fin del Recorrido": "Av. San Juan & Benito Sandoval",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 211.02,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4808337321519,
+            -34.7333483905161
+          ],
+          [
+            -58.481020244176,
+            -34.7324119744461
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Av. San Juan & Benito Sandoval",
+        "Fin del Recorrido": "Avenida San Juan & Progreso",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 403.68,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4818377,
+            -34.7319678
+          ],
+          [
+            -58.4833532,
+            -34.7306473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Saladillo & Arroyo Santa Catalina",
+        "Fin del Recorrido": "Avenida Medrano & Saladillo",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 278.31,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.48346489999999,
+            -34.7328763
+          ],
+          [
+            -58.4819852563065,
+            -34.7325804966111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Avenida Medrano & Saladillo",
+        "Fin del Recorrido": "Avenida San Juan & Saladillo",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 175.11,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4818759423705,
+            -34.7329105495613
+          ],
+          [
+            -58.48092029938,
+            -34.7328541507177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Avenida San Juan & Saladillo",
+        "Fin del Recorrido": "Saladillo & Raúl Lloberas",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 197.13,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.48092029938,
+            -34.7328541507177
+          ],
+          [
+            -58.4798959948875,
+            -34.7325763962888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Romero & Saladillo",
+        "Fin del Recorrido": "Avenida Medrano & Saladillo",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 133.56,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4826319151675,
+            -34.7330731694238
+          ],
+          [
+            -58.4819029489625,
+            -34.7330306621587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Avenida Medrano & Junin",
+        "Fin del Recorrido": "Junín & Raúl Lloberas",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 223.98,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4830033,
+            -34.7316017
+          ],
+          [
+            -58.4821317083089,
+            -34.7308937254024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Progreso & Raúl Lloberas",
+        "Fin del Recorrido": "Progreso hasta el final",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 187.31,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4829131108557,
+            -34.7303294730907
+          ],
+          [
+            -58.483709666572,
+            -34.7308594577895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Raúl Lloberas & Benito Sandoval",
+        "Fin del Recorrido": "Benito Sandoval casi San Juan",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 242.68,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4813108,
+            -34.731521
+          ],
+          [
+            -58.4814395294028,
+            -34.7326070893726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Raúl Lloberas & Benito Sandoval",
+        "Fin del Recorrido": "Benito Sandoval pasando San Juan",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 183.53,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4813108,
+            -34.731521
+          ],
+          [
+            -58.4820099914944,
+            -34.732113378321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Benito Sandoval pasando San Juan",
+        "Fin del Recorrido": "Benito Sandoval entre curvas",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 151.41,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4820099914944,
+            -34.732113378321
+          ],
+          [
+            -58.4814395294028,
+            -34.7326070893726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Las Heras & Pres. Juan Domingo Perón",
+        "Fin del Recorrido": "Las Heras & Las Tropas",
+        "CGM": "Santa Marta",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 446.86,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4296827919832,
+            -34.7455540538172
+          ],
+          [
+            -58.4321029415317,
+            -34.7452660194144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Lisandro de la Torre & Pres. Juan Domingo Perón",
+        "Fin del Recorrido": "Lisandro de la Torre & Falucho",
+        "CGM": "Santa Marta",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 3398.63,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4302956805846,
+            -34.7429298362836
+          ],
+          [
+            -58.44481689999999,
+            -34.7524789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "30 de Septiembre & Av. Almirante Brown",
+        "Fin del Recorrido": "30 de Septiembre & Av. Cabred",
+        "CGM": "Temperley",
+        "Localidad": "Temperley",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 2760.15,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.38908,
+            -34.7872
+          ],
+          [
+            -58.3764745609846,
+            -34.7803548460514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Fray Mamerto Esquiú & Gral. Frías",
+        "Fin del Recorrido": "Fray Mamerto Esquiú & Av. Segurola",
+        "CGM": "Turdera",
+        "Localidad": "Turdera",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1925.17,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4125919138601,
+            -34.7952843507898
+          ],
+          [
+            -58.4021146626978,
+            -34.7943295107527
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Plaza Barrio Obrero",
+        "Fin del Recorrido": null,
+        "CGM": "Lomas",
+        "Localidad": "Lomas De Zamora",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "P",
+        "Tipo_Punto": "P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4669094576717,
+          -34.7481108465545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "24/7/2026",
+        "Inicio Recorrido": "Plaza San Antonio",
+        "Fin del Recorrido": null,
+        "CGM": "Lomas",
+        "Localidad": "Lomas De Zamora",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "P",
+        "Tipo_Punto": "P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4261136683561,
+          -34.77530733563482
+        ]
+      }
     }
   ]
 }
