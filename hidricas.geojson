@@ -10116,30 +10116,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.3839638,
-          -34.7665762
-        ]
-      },
-      "properties": {
-        "fecha": "2026-03-06T03:00:00.000Z",
-        "cgm": "Albertina",
-        "tarea": "Limpieza y Desobstruccion",
-        "cant": 5,
-        "mts.": "",
-        "tipo": "Sumidero",
-        "direccion_desde": "calle Agustín Magaldi y Cabo Casares",
-        "direccion_hasta": "",
-        "": "",
-        "distancia": "",
-        "nro._reporte": "",
-        "observaciones": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -58.4064345,
           -34.7362919
         ]
@@ -59424,30 +59400,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4302476,
-          -34.76118230000001
-        ]
-      },
-      "properties": {
-        "fecha": "2026-06-30T03:00:00.000Z",
-        "cgm": "ALBERTINA",
-        "tarea": "Limpieza a mano",
-        "cant": "",
-        "mts.": "",
-        "tipo": "Sumidero",
-        "direccion_desde": "Presidente Peron & Itati",
-        "direccion_hasta": "",
-        "": "",
-        "distancia": "",
-        "nro._reporte": "",
-        "observaciones": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -58.4413819,
           -34.7277547
         ]
@@ -60072,30 +60024,6 @@
         "mts.": "",
         "tipo": "Sumidero",
         "direccion_desde": "Presidente Peron & Sarmiento",
-        "direccion_hasta": "",
-        "": "",
-        "distancia": "",
-        "nro._reporte": "",
-        "observaciones": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.43358860000001,
-          -34.7387075
-        ]
-      },
-      "properties": {
-        "fecha": "2026-07-01T03:00:00.000Z",
-        "cgm": "ALBERTINA",
-        "tarea": "Limpieza a mano",
-        "cant": "",
-        "mts.": "",
-        "tipo": "Sumidero",
-        "direccion_desde": "Presidente Peron & Franklin",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -67344,30 +67272,6 @@
         "mts.": "",
         "tipo": "Sumidero",
         "direccion_desde": "Zuberoa & Euskadi",
-        "direccion_hasta": "",
-        "": "",
-        "distancia": "",
-        "nro._reporte": "",
-        "observaciones": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.4549108,
-          -34.7261265
-        ]
-      },
-      "properties": {
-        "fecha": "2026-07-22T03:00:00.000Z",
-        "cgm": "ALBERTINA",
-        "tarea": "Limpieza y desobstruccion",
-        "cant": "",
-        "mts.": "",
-        "tipo": "Sumidero",
-        "direccion_desde": "Paris & Ricardo Palma",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
