@@ -77569,7 +77569,7 @@
         "CGM": "Lomas",
         "Localidad": "Lomas De Zamora",
         "Color_Generado": "#3cb44b",
-        "Distancia": null,
+        "Distancia": 1577.45,
         "Area": 0,
         "marker-symbol": "O",
         "Tipo_Punto": "O"
@@ -77578,12 +77578,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            null,
+            -58.3961584528972,
             -34.7600085206692
           ],
           [
-            -58.3762834,
-            -34.755933
+            -58.3876248131943,
+            -34.7610867067349
           ]
         ]
       }
