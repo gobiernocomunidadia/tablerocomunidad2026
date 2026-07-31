@@ -773212,8 +773212,8 @@
     "dominio": "AF827KU",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "31/07/2026"
   },
   {
@@ -773338,8 +773338,8 @@
     "dominio": "AF520QS",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "31/07/2026"
   },
   {
@@ -773752,8 +773752,8 @@
     "dominio": "AE807UL",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "31/07/2026"
   },
   {
@@ -773887,8 +773887,8 @@
     "dominio": "AE914AW",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "31/07/2026"
   },
   {
@@ -773896,8 +773896,8 @@
     "dominio": "AE807UH",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "31/07/2026"
   },
   {
@@ -774004,8 +774004,8 @@
     "dominio": "AE807UG",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "31/07/2026"
   },
   {
@@ -774076,8 +774076,8 @@
     "dominio": "AF301SQ",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "31/07/2026"
   },
   {
@@ -774148,8 +774148,8 @@
     "dominio": "AF520QT",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "31/07/2026"
   },
   {
@@ -774192,9 +774192,9 @@
     "dirección": "CPU",
     "dominio": "AH418SR",
     "tipo": "Patrulla",
-    "estado": "Operativo",
+    "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "razón": null,
     "fecha": "31/07/2026"
   },
   {
@@ -774912,7 +774912,7 @@
     "dirección": "DM EMERGENCIAS",
     "dominio": "AA928JN",
     "tipo": "Ambulancia",
-    "estado": "Operativo",
+    "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "31/07/2026"
@@ -774930,7 +774930,7 @@
     "dirección": "DM EMERGENCIAS",
     "dominio": "AE478BB",
     "tipo": "Ambulancia",
-    "estado": "Sin funcionar - parado",
+    "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "31/07/2026"
@@ -774939,7 +774939,7 @@
     "dirección": "DM EMERGENCIAS",
     "dominio": "AE478BC",
     "tipo": "Ambulancia",
-    "estado": "Sin funcionar - parado",
+    "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
     "razón": "Falla mecánica",
     "fecha": "31/07/2026"
@@ -775866,7 +775866,7 @@
     "dirección": "LOMAS PREVIENE",
     "dominio": "AE507SZ",
     "tipo": "Patrulla",
-    "estado": "Operativo",
+    "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "31/07/2026"
