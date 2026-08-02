@@ -793146,8 +793146,8 @@
     "dirección": "CPU",
     "dominio": "AH375EU",
     "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "02/08/2026"
   },
@@ -793632,8 +793632,8 @@
     "dirección": "CPU",
     "dominio": "AF301SI",
     "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "02/08/2026"
   },
