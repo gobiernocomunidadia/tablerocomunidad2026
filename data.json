@@ -801478,38 +801478,11 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "A125RYW",
-    "tipo": "Moto",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
     "dominio": "A125RYY",
     "tipo": "Moto",
     "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": true,
     "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "A125WXB",
-    "tipo": "Moto",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "A125WXD",
-    "tipo": "Moto",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
     "fecha": "03/08/2026"
   },
   {
@@ -801524,15 +801497,6 @@
   {
     "dirección": "CPU",
     "dominio": "A125WXJ",
-    "tipo": "Moto",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "A125WXM",
     "tipo": "Moto",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
@@ -801586,29 +801550,11 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "A145FPG",
-    "tipo": "Moto",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
-    "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
     "dominio": "A145FPH",
     "tipo": "Moto",
     "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": true,
     "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "A145FPI",
-    "tipo": "Moto",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
     "fecha": "03/08/2026"
   },
   {
@@ -801670,8 +801616,8 @@
     "dominio": "A179FSJ",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "03/08/2026"
   },
   {
@@ -801697,8 +801643,8 @@
     "dominio": "A179FSV",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "03/08/2026"
   },
   {
@@ -801829,7 +801775,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH418SO",
+    "dominio": "AB095AQ",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -801910,6 +801856,15 @@
   },
   {
     "dirección": "CPU",
+    "dominio": "AC028GB",
+    "tipo": "Patrulla",
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "CPU",
     "dominio": "AC541JR",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
@@ -801923,6 +801878,15 @@
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": true,
+    "razón": null,
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "CPU",
+    "dominio": "AE365YY",
+    "tipo": "Patrulla",
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -801955,7 +801919,34 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH418SK",
+    "dominio": "AE381MK",
+    "tipo": "Patrulla",
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "CPU",
+    "dominio": "AE404OZ",
+    "tipo": "Patrulla",
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "CPU",
+    "dominio": "AE432DB",
+    "tipo": "Patrulla",
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "CPU",
+    "dominio": "AE432DC",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -801973,7 +801964,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH418SI",
+    "dominio": "AE432DJ",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -801982,7 +801973,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH375ES",
+    "dominio": "AE442IP",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802063,6 +802054,15 @@
   },
   {
     "dirección": "CPU",
+    "dominio": "AE459SZ",
+    "tipo": "Patrulla",
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falla mecánica",
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "CPU",
     "dominio": "AE521UH",
     "tipo": "Patrulla",
     "estado": "Taller Municipal",
@@ -802126,7 +802126,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH418SS",
+    "dominio": "AE774GY",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802144,7 +802144,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH418ST",
+    "dominio": "AE807UC",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802180,7 +802180,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH418SV",
+    "dominio": "AE807UG",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802189,7 +802189,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH418SW",
+    "dominio": "AE807UH",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802198,7 +802198,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH418SU",
+    "dominio": "AE807UL",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802216,7 +802216,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH375EQ",
+    "dominio": "AE899KU",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802243,7 +802243,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH418SM",
+    "dominio": "AE914AC",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802306,7 +802306,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AB095AQ",
+    "dominio": "AE914AP",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802315,7 +802315,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH375EW",
+    "dominio": "AE914AV",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802324,7 +802324,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF842AA",
+    "dominio": "AE914AW",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802351,11 +802351,20 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH375EN",
+    "dominio": "AE926CM",
     "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
+    "estado": "Taller externo",
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "CPU",
+    "dominio": "AF182KA",
+    "tipo": "Camioneta",
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falla mecánica",
     "fecha": "03/08/2026"
   },
   {
@@ -802369,7 +802378,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH223SE",
+    "dominio": "AF276PS",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802396,7 +802405,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH375EK",
+    "dominio": "AF301SC",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802441,10 +802450,10 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH375EJ",
+    "dominio": "AF301SI",
     "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -802504,7 +802513,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH375EO",
+    "dominio": "AF301SQ",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802513,7 +802522,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH375EV",
+    "dominio": "AF301SR",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802612,7 +802621,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF827KU",
+    "dominio": "AF335BF",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802666,19 +802675,10 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH375EI",
+    "dominio": "AF496DD",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "AF582AE",
-    "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -802693,7 +802693,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH223SD",
+    "dominio": "AF520QL",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802713,7 +802713,7 @@
     "dirección": "CPU ",
     "dominio": "AF520QN",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
+    "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
@@ -802747,7 +802747,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH223SG",
+    "dominio": "AF520QT",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802792,7 +802792,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF842AP",
+    "dominio": "AF582AD",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802801,7 +802801,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF723YQ",
+    "dominio": "AF582AE",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802882,7 +802882,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF827KT",
+    "dominio": "AF723YQ",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802936,7 +802936,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF846XB",
+    "dominio": "AF827KT",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802945,10 +802945,10 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH375EU",
+    "dominio": "AF827KU",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -802981,7 +802981,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH223SJ",
+    "dominio": "AF842AA",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -802999,7 +802999,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF846XD",
+    "dominio": "AF842AC",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803027,6 +803027,15 @@
   {
     "dirección": "CPU",
     "dominio": "AF842AH",
+    "tipo": "Patrulla",
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
+    "razón": null,
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "CPU",
+    "dominio": "AF842AK",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": true,
@@ -803071,10 +803080,10 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH223SI",
+    "dominio": "AF842AP",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -803091,7 +803100,7 @@
     "dirección": "CPU",
     "dominio": "AF842AR",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
+    "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
@@ -803152,7 +803161,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AE807UL",
+    "dominio": "AF846XB",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803170,7 +803179,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH223SC",
+    "dominio": "AF846XD",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803179,7 +803188,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH375EY",
+    "dominio": "AF846XE",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803188,7 +803197,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH223SA",
+    "dominio": "AF846XF",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803251,24 +803260,6 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH375EZ",
-    "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
-    "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "AE807UC",
-    "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
     "dominio": "AH184CZ",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
@@ -803278,7 +803269,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AE914AV",
+    "dominio": "AH223SA",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803287,7 +803278,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AE914AW",
+    "dominio": "AH223SB",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803296,11 +803287,29 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AE807UH",
+    "dominio": "AH223SC",
+    "tipo": "Patrulla",
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
+    "razón": null,
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "CPU",
+    "dominio": "AH223SD",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
     "razón": null,
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "CPU",
+    "dominio": "AH223SE",
+    "tipo": "Patrulla",
+    "estado": "Taller externo",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Está en service",
     "fecha": "03/08/2026"
   },
   {
@@ -803314,7 +803323,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF276PS",
+    "dominio": "AH223SG",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803332,16 +803341,16 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF301SR",
+    "dominio": "AH223SI",
     "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
   },
   {
     "dirección": "CPU",
-    "dominio": "AF582AD",
+    "dominio": "AH223SJ",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803368,7 +803377,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF520QL",
+    "dominio": "AH375EI",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803377,7 +803386,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AE432DJ",
+    "dominio": "AH375EJ",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803386,7 +803395,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AE914AC",
+    "dominio": "AH375EK",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803404,7 +803413,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AE807UG",
+    "dominio": "AH375EN",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803413,7 +803422,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF335BF",
+    "dominio": "AH375EO",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803431,10 +803440,10 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF301SI",
+    "dominio": "AH375EQ",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -803449,7 +803458,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH418SD",
+    "dominio": "AH375ES",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803467,7 +803476,16 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF301SC",
+    "dominio": "AH375EU",
+    "tipo": "Patrulla",
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
+    "razón": null,
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "CPU",
+    "dominio": "AH375EV",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803476,16 +803494,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF301SQ",
-    "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "AF842AC",
+    "dominio": "AH375EW",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803503,7 +803512,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AE914AP",
+    "dominio": "AH375EY",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803512,7 +803521,16 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF846XE",
+    "dominio": "AH375EZ",
+    "tipo": "Patrulla",
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
+    "razón": null,
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "CPU",
+    "dominio": "AH418SA",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803521,7 +803539,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF846XF",
+    "dominio": "AH418SD",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803539,7 +803557,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AE442IP",
+    "dominio": "AH418SI",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803548,7 +803566,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF520QT",
+    "dominio": "AH418SK",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803557,7 +803575,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AE899KU",
+    "dominio": "AH418SM",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803566,7 +803584,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH223SB",
+    "dominio": "AH418SO",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803602,16 +803620,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AF496DD",
-    "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "AE774GY",
+    "dominio": "AH418SS",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803620,7 +803629,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AE926CM",
+    "dominio": "AH418ST",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": true,
@@ -803629,7 +803638,7 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AE432DB",
+    "dominio": "AH418SU",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803638,7 +803647,16 @@
   },
   {
     "dirección": "CPU",
-    "dominio": "AH418SA",
+    "dominio": "AH418SV",
+    "tipo": "Patrulla",
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "CPU",
+    "dominio": "AH418SW",
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
@@ -803658,9 +803676,9 @@
     "dirección": "CPU",
     "dominio": "AH418SY",
     "tipo": "Patrulla",
-    "estado": "Taller externo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "En taller",
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "03/08/2026"
   },
   {
@@ -803679,78 +803697,6 @@
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
     "razón": "Siniestro",
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "AE365YY",
-    "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "AC028GB",
-    "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "AF842AK",
-    "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
-    "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "AE381MK",
-    "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "AE404OZ",
-    "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "AE432DC",
-    "tipo": "Patrulla",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "AE459SZ",
-    "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falla mecánica",
-    "fecha": "03/08/2026"
-  },
-  {
-    "dirección": "CPU",
-    "dominio": "AF182KA",
-    "tipo": "Camioneta",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falla mecánica",
     "fecha": "03/08/2026"
   },
   {
@@ -804195,6 +804141,24 @@
     "fecha": "03/08/2026"
   },
   {
+    "dirección": "TRÁNSITO",
+    "dominio": "A145FPI",
+    "tipo": "Moto",
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "TRÁNSITO",
+    "dominio": "A145FPG",
+    "tipo": "Moto",
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
+    "razón": null,
+    "fecha": "03/08/2026"
+  },
+  {
     "dirección": "DM EMERGENCIAS",
     "dominio": "226KML",
     "tipo": "Moto",
@@ -804316,7 +804280,7 @@
     "dominio": "AA928JN",
     "tipo": "Ambulancia",
     "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": false,
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -804402,6 +804366,60 @@
     "fecha": "03/08/2026"
   },
   {
+    "dirección": "DM EMERGENCIAS",
+    "dominio": "AG768BH",
+    "tipo": "Ambulancia",
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "No programado / Sin servicio asignado",
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "DM EMERGENCIAS",
+    "dominio": "AG768BN",
+    "tipo": "Ambulancia",
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "No programado / Sin servicio asignado",
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "DM EMERGENCIAS",
+    "dominio": "A125RYW",
+    "tipo": "Moto",
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "DM EMERGENCIAS",
+    "dominio": "A125WXD",
+    "tipo": "Moto",
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "DM EMERGENCIAS",
+    "dominio": "A125WXM",
+    "tipo": "Moto",
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
+    "fecha": "03/08/2026"
+  },
+  {
+    "dirección": "DM EMERGENCIAS",
+    "dominio": "A125WXB",
+    "tipo": "Moto",
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
+    "fecha": "03/08/2026"
+  },
+  {
     "dirección": "LOMAS PREVIENE",
     "dominio": "AE365YX",
     "tipo": "Patrulla",
@@ -804442,7 +804460,7 @@
     "dominio": "AE432DA",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": null,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -804496,7 +804514,7 @@
     "dominio": "AE442II",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": false,
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -804514,7 +804532,7 @@
     "dominio": "AE442IL",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": false,
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -804532,7 +804550,7 @@
     "dominio": "AE442IN",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": false,
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -804542,7 +804560,7 @@
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
-    "razón": "Falla mecánica",
+    "razón": null,
     "fecha": "03/08/2026"
   },
   {
@@ -804550,7 +804568,7 @@
     "dominio": "AE442IZ",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": false,
+    "no_salió_a_servicio_hoy": true,
     "razón": "Falla mecánica",
     "fecha": "03/08/2026"
   },
@@ -804613,7 +804631,7 @@
     "dominio": "AE452IJ",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": false,
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -804631,7 +804649,7 @@
     "dominio": "AE452IL",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": false,
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -804685,7 +804703,7 @@
     "dominio": "AE459RN",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": false,
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -804730,7 +804748,7 @@
     "dominio": "AE459RV",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": false,
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -804793,7 +804811,7 @@
     "dominio": "AE459SD",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": false,
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -804928,7 +804946,7 @@
     "dominio": "AE855IA",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": false,
+    "no_salió_a_servicio_hoy": true,
     "razón": "Falla mecánica",
     "fecha": "03/08/2026"
   },
@@ -804937,7 +804955,7 @@
     "dominio": "AE855IB",
     "tipo": "Patrulla",
     "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": false,
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "03/08/2026"
   },
@@ -805190,7 +805208,7 @@
     "tipo": "Patrulla",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": false,
-    "razón": "Falla mecánica",
+    "razón": null,
     "fecha": "03/08/2026"
   },
   {
