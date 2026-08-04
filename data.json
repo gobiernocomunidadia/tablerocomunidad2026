@@ -811336,8 +811336,8 @@
     "dominio": "A125WXR",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "04/08/2026"
   },
   {
@@ -811346,7 +811346,7 @@
     "tipo": "Moto",
     "estado": "Taller Municipal",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -811355,7 +811355,7 @@
     "tipo": "Moto",
     "estado": "Taller Municipal",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -811435,8 +811435,8 @@
     "dominio": "A179FSJ",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "04/08/2026"
   },
   {
@@ -811859,7 +811859,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -811886,7 +811886,7 @@
     "tipo": "Patrulla",
     "estado": "Taller Municipal",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -811985,7 +811985,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -812020,8 +812020,8 @@
     "dominio": "AE807UL",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "04/08/2026"
   },
   {
@@ -812146,8 +812146,8 @@
     "dominio": "AE914AW",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
-    "razón": null,
+    "no_salió_a_servicio_hoy": true,
+    "razón": "Falta de chofer",
     "fecha": "04/08/2026"
   },
   {
@@ -812174,7 +812174,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -812237,7 +812237,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -812471,7 +812471,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -812534,7 +812534,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -812606,7 +812606,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -812696,7 +812696,7 @@
     "tipo": "Patrulla",
     "estado": "Taller Municipal",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -812750,7 +812750,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -812831,7 +812831,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -812867,7 +812867,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -812894,7 +812894,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -812921,7 +812921,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -812966,7 +812966,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -813027,8 +813027,8 @@
     "dirección": "CPU",
     "dominio": "AF846XG",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "04/08/2026"
   },
@@ -813081,8 +813081,8 @@
     "dirección": "CPU",
     "dominio": "AH184CZ",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "04/08/2026"
   },
@@ -813127,7 +813127,7 @@
     "dominio": "AH223SE",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "04/08/2026"
   },
@@ -813137,7 +813137,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Falla mecánica",
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -813155,7 +813155,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -813290,7 +813290,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Falla mecánica",
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -813326,7 +813326,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -813371,7 +813371,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Falla mecánica",
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -813416,7 +813416,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -813515,7 +813515,7 @@
     "tipo": "Patrulla",
     "estado": "Taller externo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Siniestro",
+    "razón": "En taller",
     "fecha": "04/08/2026"
   },
   {
@@ -814530,9 +814530,9 @@
     "dirección": "LOMAS PREVIENE",
     "dominio": "AE459RP",
     "tipo": "Patrulla",
-    "estado": "Operativo",
+    "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": true,
-    "razón": null,
+    "razón": "Falta ploteo",
     "fecha": "04/08/2026"
   },
   {
