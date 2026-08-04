@@ -80026,6 +80026,34 @@
       "type": "Feature",
       "properties": {
         "Fecha_str": "3/8/2026",
+        "Inicio Recorrido": "Figueredo & Gral. Hornos",
+        "Fin del Recorrido": "Figueredo & Mario Bravo",
+        "CGM": "Fiorito",
+        "Localidad": "Villa Fiorito",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1390.67,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4380980153433,
+            -34.7004278206033
+          ],
+          [
+            -58.4444203649747,
+            -34.7039045165498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "3/8/2026",
         "Inicio Recorrido": "Epecuen & Tuyuti",
         "Fin del Recorrido": "Epecuen & Falucho",
         "CGM": "Lamadrid",
@@ -80227,7 +80255,7 @@
         "CGM": "San Jose",
         "Localidad": "Temperley",
         "Color_Generado": "#3cb44b",
-        "Distancia": 1028.14,
+        "Distancia": 268.65,
         "Area": 0,
         "marker-symbol": "O",
         "Tipo_Punto": "O"
@@ -80236,8 +80264,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -58.35852,
-            -34.76255
+            -58.3540985558263,
+            -34.7616020718403
           ],
           [
             -58.35347,
