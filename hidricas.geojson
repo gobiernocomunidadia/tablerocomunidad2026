@@ -71610,6 +71610,588 @@
         "nro._reporte": "",
         "observaciones": ""
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4626823,
+          -34.7484715
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-03T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Calle 106 & Calle 4(Barrio Obrero)",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38685770000001,
+          -34.7745213
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-03T03:00:00.000Z",
+        "cgm": "TEMPERLEY",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Blanco Encalada",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4327659,
+          -34.734906
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Rodriguez & Siciliano ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4316743,
+          -34.7342928
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Rodriguez & Palacios",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4293162,
+          -34.7339581
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Rodriguez & Juan Basco ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4237843,
+          -34.7523835
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Rodriguez & 12 De Octubre",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.418902,
+          -34.7274483
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Rodriguez & Ameghino ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42865189999999,
+          -34.7898412
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Olleros & De  la Peña",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4493804,
+          -34.7579201
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "PARQUE BARON",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Bustos & Uspallata",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4303453,
+          -34.7104944
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Rodriguez & General Hornos",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42000179999999,
+          -34.7280338
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Rodriguez & Emerson",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4365287,
+          -34.7366818
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Barrio el Campanario ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4493738,
+          -34.7118019
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Rodriguez & Gabriel Miro",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4338498,
+          -34.735485
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Rodriguez & Falleres",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4160559,
+          -34.7290701
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Hornos & Zapata",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4302476,
+          -34.76118230000001
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Hornos & Olivero",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4149764,
+          -34.7304901
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Hornos & Rosetti",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4626823,
+          -34.7484715
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Calle 106 entre 3 &4(Barrio Obrero)",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.46912500000001,
+          -34.7503172
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Calle 105 & Calle 2(Barrio Obrero)",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4626823,
+          -34.7484715
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Calle 102 entre Calle 3& 4(Barrio Obrero)",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4696479,
+            -34.7572864
+          ],
+          [
+            -58.47163609999999,
+            -34.7569472
+          ]
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Venzano & David Baud",
+        "direccion_hasta": "Venzano & Jeronimo Costa",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4234647,
+          -34.809123
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Necochea entre Cuyo & Davila",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4173877,
+          -34.8035191
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Avenida del Rey & Lujan",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4234647,
+          -34.809123
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-04T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Colocacion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Caño Cemento",
+        "direccion_desde": "Necochea entre Cuyo & Davila",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
     }
   ]
 }
