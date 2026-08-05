@@ -821156,7 +821156,7 @@
     "tipo": "Moto",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "razón": "Falta de chofer, Falta de balizas",
     "fecha": "05/08/2026"
   },
   {
@@ -821165,7 +821165,7 @@
     "tipo": "Moto",
     "estado": "Taller Municipal",
     "no_salió_a_servicio_hoy": true,
-    "razón": "En taller",
+    "razón": "En taller, Falta de balizas",
     "fecha": "05/08/2026"
   },
   {
@@ -821174,7 +821174,7 @@
     "tipo": "Moto",
     "estado": "Taller Municipal",
     "no_salió_a_servicio_hoy": true,
-    "razón": "En taller",
+    "razón": "En taller, Falta de balizas",
     "fecha": "05/08/2026"
   },
   {
@@ -821183,7 +821183,7 @@
     "tipo": "Moto",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "razón": "Falta de chofer, Falta de balizas",
     "fecha": "05/08/2026"
   },
   {
@@ -821201,7 +821201,7 @@
     "tipo": "Moto",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "razón": "Falta de chofer, Falta de balizas",
     "fecha": "05/08/2026"
   },
   {
@@ -821219,7 +821219,7 @@
     "tipo": "Moto",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "razón": "Falta de chofer, Falta de balizas",
     "fecha": "05/08/2026"
   },
   {
@@ -821228,7 +821228,7 @@
     "tipo": "Moto",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "razón": "Falta de chofer, Falta de balizas",
     "fecha": "05/08/2026"
   },
   {
@@ -821237,7 +821237,7 @@
     "tipo": "Moto",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "razón": "Falta de chofer, Falta de balizas",
     "fecha": "05/08/2026"
   },
   {
@@ -821254,8 +821254,8 @@
     "dominio": "A179FSJ",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": "Falta de balizas",
     "fecha": "05/08/2026"
   },
   {
@@ -821273,7 +821273,7 @@
     "tipo": "Moto",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "razón": "Falta de chofer, Falta de balizas",
     "fecha": "05/08/2026"
   },
   {
@@ -821281,8 +821281,8 @@
     "dominio": "A179FSV",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": "Falta de balizas",
     "fecha": "05/08/2026"
   },
   {
@@ -821291,7 +821291,7 @@
     "tipo": "Moto",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "razón": "Falta de chofer, Falta de balizas",
     "fecha": "05/08/2026"
   },
   {
@@ -821309,7 +821309,7 @@
     "tipo": "Moto",
     "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de chofer",
+    "razón": "Falta de chofer, Falta de balizas",
     "fecha": "05/08/2026"
   },
   {
@@ -823170,8 +823170,8 @@
     "dirección": "CPU",
     "dominio": "AH418SA",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "05/08/2026"
   },
@@ -823764,8 +823764,8 @@
     "dirección": "TRÁNSITO",
     "dominio": "A179FSW",
     "tipo": "Moto",
-    "estado": "Operativo",
-    "no_salió_a_servicio_hoy": false,
+    "estado": "Sin funcionar - parado",
+    "no_salió_a_servicio_hoy": true,
     "razón": null,
     "fecha": "05/08/2026"
   },
@@ -824151,8 +824151,8 @@
     "dirección": "LOMAS PREVIENE",
     "dominio": "AE442II",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "05/08/2026"
   },
@@ -824223,7 +824223,7 @@
     "dirección": "LOMAS PREVIENE",
     "dominio": "AE452ID",
     "tipo": "Patrulla",
-    "estado": "Taller externo",
+    "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": true,
     "razón": "Falla mecánica",
     "fecha": "05/08/2026"
