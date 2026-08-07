@@ -73488,6 +73488,438 @@
         "nro._reporte": "",
         "observaciones": ""
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4661019,
+          -34.7335648
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-06T03:00:00.000Z",
+        "cgm": "LAMADRID",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Goya & Escobar",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.47502999999999,
+          -34.7312557
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-06T03:00:00.000Z",
+        "cgm": "LAMADRID",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Gualeguay & Einstein",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4549108,
+          -34.7261265
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-06T03:00:00.000Z",
+        "cgm": "ALBERTINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Ricardo Palma entre Espronceda & Saladillo",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4137618,
+          -34.7758882
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-06T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Garibaldi & Las vias",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.420609,
+          -34.8110627
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-06T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Sarratea & Silva",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.46537739999999,
+          -34.717201
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "BUDGE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Baradero & Claudio de Alas",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4673878,
+          -34.7146961
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "BUDGE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Azamor & Claudio de alas",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.46766139999999,
+          -34.7166635
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "BUDGE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Carriego & Figueredo",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35218209999999,
+          -34.7567999
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Benteveo",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.35218209999999,
+          -34.7567999
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Eva Peron & Benteveo",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4686087,
+          -34.7174829
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "BUDGE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": " Andres Bello  2480",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4621054,
+          -34.7255558
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "BUDGE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": " Andres Bello  2481",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4282111,
+          -34.7383422
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Timoteo Gordillo & Palacios",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4302476,
+          -34.76118230000001
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Colectora Presidente Peron & Minetto",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4431554,
+          -34.7264553
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Virgen de Itati & Morazan",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4722551,
+          -34.7414601
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Soldado Rodriguez & Manuela Pedraza",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.47296619999999,
+          -34.7390953
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Cabo Correa & Ignacio Corsini",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.46844059999999,
+          -34.7449027
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Ignacio Corsini entre Soldado Petruchelli & Facundo Quiroga ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
     }
   ]
 }
