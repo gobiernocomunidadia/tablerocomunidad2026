@@ -840892,8 +840892,8 @@
     "dominio": "A179FSJ",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de balizas, Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": "Falta de balizas",
     "fecha": "07/08/2026"
   },
   {
@@ -840919,8 +840919,8 @@
     "dominio": "A179FSV",
     "tipo": "Moto",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Falta de balizas, Falta de chofer",
+    "no_salió_a_servicio_hoy": false,
+    "razón": "Falta de balizas",
     "fecha": "07/08/2026"
   },
   {
@@ -842205,7 +842205,7 @@
     "dirección": "CPU",
     "dominio": "AF827KS",
     "tipo": "Patrulla",
-    "estado": "Operativo",
+    "estado": "Sin funcionar - parado",
     "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/08/2026"
@@ -842646,7 +842646,7 @@
     "dirección": "CPU",
     "dominio": "AH375EH",
     "tipo": "Patrulla",
-    "estado": "Taller externo",
+    "estado": "Operativo",
     "no_salió_a_servicio_hoy": true,
     "razón": "En taller",
     "fecha": "07/08/2026"
@@ -842692,8 +842692,8 @@
     "dominio": "AH375EN",
     "tipo": "Patrulla",
     "estado": "Operativo",
-    "no_salió_a_servicio_hoy": true,
-    "razón": "Ploteo",
+    "no_salió_a_servicio_hoy": false,
+    "razón": null,
     "fecha": "07/08/2026"
   },
   {
@@ -842754,8 +842754,8 @@
     "dirección": "CPU",
     "dominio": "AH375EU",
     "tipo": "Patrulla",
-    "estado": "Sin funcionar - parado",
-    "no_salió_a_servicio_hoy": true,
+    "estado": "Operativo",
+    "no_salió_a_servicio_hoy": false,
     "razón": null,
     "fecha": "07/08/2026"
   },
