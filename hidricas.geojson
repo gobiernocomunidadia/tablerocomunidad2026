@@ -246,8 +246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4936593,
-          -34.6303495
+          -58.4653514950439,
+          -34.7474095728314
         ]
       },
       "properties": {
@@ -9366,8 +9366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.640874,
-          -34.622111
+          -58.4657376905712,
+          -34.7481324617705
         ]
       },
       "properties": {
@@ -9414,8 +9414,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.3821215,
-          -34.6036739
+          -58.4656304099972,
+          -34.7479914091357
         ]
       },
       "properties": {
@@ -65484,8 +65484,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.3959068,
-          -34.7262948
+          -58.3975157409603,
+          -34.7353534289698
         ]
       },
       "properties": {
@@ -65495,7 +65495,7 @@
         "cant": "",
         "mts.": "",
         "tipo": "Sumidero",
-        "direccion_desde": "Hipolito Yrigoyen  6123",
+        "direccion_desde": "Hipolito Yrigoyen  7123",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -75444,6 +75444,30 @@
         "mts.": "",
         "tipo": "Conducto",
         "direccion_desde": "Mza 19 Casa 3 Barrio El Campanario",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3750977,
+          -34.7721159
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-14T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Salta & El Zorzal",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
