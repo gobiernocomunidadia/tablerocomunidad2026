@@ -10122,7 +10122,7 @@
       },
       "properties": {
         "fecha": "2026-03-06T03:00:00.000Z",
-        "cgm": "Albertina",
+        "cgm": "Santa Catalina",
         "tarea": "Limpieza y Desobstruccion",
         "cant": 5,
         "mts.": "",
@@ -19176,8 +19176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4301862426318,
-          -34.742600763079
+          -58.4302095003769,
+          -34.742578262455
         ]
       },
       "properties": {
@@ -50886,8 +50886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.3888537545236,
-          -34.7537603329242
+          -58.3888646850068,
+          -34.753692117377
         ]
       },
       "properties": {
@@ -60084,8 +60084,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4335671435156,
-          -34.738672179239
+          -58.4335907853448,
+          -34.7387442465163
         ]
       },
       "properties": {
@@ -60108,8 +60108,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.458514,
-          -34.7303972
+          -58.4584627793368,
+          -34.7318306303817
         ]
       },
       "properties": {
@@ -67140,18 +67140,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.369948,
-          -34.7482483
+          -58.3662018938773,
+          -34.7463092871215
         ]
       },
       "properties": {
         "fecha": "2026-07-22T03:00:00.000Z",
-        "cgm": "BANFIELD",
+        "cgm": "SAN JOSE",
         "tarea": "Limpieza a mano",
         "cant": "",
         "mts.": "",
         "tipo": "Sumidero",
-        "direccion_desde": "Barcelona & Lanus",
+        "direccion_desde": "Barcelo & Lanus",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -67164,18 +67164,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.3602718,
-          -34.7454517
+          -58.3650169585668,
+          -34.7478763508498
         ]
       },
       "properties": {
         "fecha": "2026-07-22T03:00:00.000Z",
-        "cgm": "BANFIELD",
+        "cgm": "SAN JOSE",
         "tarea": "Limpieza a mano",
         "cant": "",
         "mts.": "",
         "tipo": "Sumidero",
-        "direccion_desde": "Barcelona & Barilari",
+        "direccion_desde": "Barcelo & Barilari",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -73110,8 +73110,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4302476,
-          -34.76118230000001
+          -58.4001235721568,
+          -34.7485701094138
         ]
       },
       "properties": {
@@ -74994,8 +74994,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4491114,
-          -34.763931
+          -58.4674555336321,
+          -34.7386110504509
         ]
       },
       "properties": {
@@ -75114,8 +75114,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4129034,
-          -34.7491856
+          -58.4673707297091,
+          -34.7380627261292
         ]
       },
       "properties": {
@@ -75234,8 +75234,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.448275,
-          -34.7634809
+          -58.4664774218626,
+          -34.7381754504594
         ]
       },
       "properties": {
@@ -75258,8 +75258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.448275,
-          -34.7634809
+          -58.4664774218626,
+          -34.7381754504594
         ]
       },
       "properties": {
@@ -75330,8 +75330,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4129034,
-          -34.7491856
+          -58.4673707297091,
+          -34.7380627261292
         ]
       },
       "properties": {
@@ -76308,6 +76308,276 @@
         "mts.": "",
         "tipo": "Sumidero",
         "direccion_desde": "Montiel & Ayolas",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4596727,
+          -34.7772839
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-18T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Antartida Argentina & Ruta 4",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4212752,
+          -34.8102167
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-18T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Sarratea & Sastre",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43080149999999,
+          -34.7942799
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-18T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Piedrabuena & Luzuriaga",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38612850000001,
+          -34.7453429
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-18T03:00:00.000Z",
+        "cgm": "BANFIELD",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Levalle & Cochabamba",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37913039999999,
+          -34.753687
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-18T03:00:00.000Z",
+        "cgm": "BANFIELD",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Pedernera & Campos ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44051769999999,
+          -34.7489961
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-18T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Lisandro la Torre  entre Trelles & Viales",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4516033,
+          -34.7529142
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-18T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Arana Goiri & Mar del Plata",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4302476,
+          -34.76118230000001
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-18T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "San Jose entre La Calandria & Eva Peron ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.48058460000001,
+            -34.7320571
+          ],
+          [
+            -58.481022,
+            -34.7324067
+          ]
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-18T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Sandoval & Raul Llobera",
+        "direccion_hasta": "Sandoval & San Juan",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.46177639999999,
+          -34.7455389
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-18T03:00:00.000Z",
+        "cgm": "ALBERTINA",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Terrada entre Bidazoa & Guernica",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3881101,
+          -34.7808487
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-18T03:00:00.000Z",
+        "cgm": "TEMPERLEY",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Triunvirato & Arroyito",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
