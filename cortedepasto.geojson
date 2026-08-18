@@ -86524,6 +86524,34 @@
       "type": "Feature",
       "properties": {
         "Fecha_str": "14/8/2026",
+        "Inicio Recorrido": "Peña & Arenales",
+        "Fin del Recorrido": "Peña & Arenales",
+        "CGM": "Banfield",
+        "Localidad": "Banfield",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 9.6,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3883988348078,
+            -34.7501968158079
+          ],
+          [
+            -58.3883470865076,
+            -34.7501893694118
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "14/8/2026",
         "Inicio Recorrido": "Campana & Bariloche",
         "Fin del Recorrido": "Campana & Pres. Juan Domingo Perón",
         "CGM": "Budge",
@@ -86954,8 +86982,64 @@
       "type": "Feature",
       "properties": {
         "Fecha_str": "14/8/2026",
+        "Inicio Recorrido": "Sta. Ana & Villafañes",
+        "Fin del Recorrido": "Pje. Loreto & Sta. Ana",
+        "CGM": "Temperley",
+        "Localidad": "Temperley",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 204.04,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3941399981126,
+            -34.7875250838411
+          ],
+          [
+            -58.3950589672617,
+            -34.7880467716275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "14/8/2026",
+        "Inicio Recorrido": "Sto Tomas & Villafañes",
+        "Fin del Recorrido": "Sto Tomas completo",
+        "CGM": "Temperley",
+        "Localidad": "Temperley",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 139.88,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3946060305586,
+            -34.7869242460721
+          ],
+          [
+            -58.3951797070069,
+            -34.7873409217087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "14/8/2026",
         "Inicio Recorrido": "San Basilio & Hipolito Yrigoyen",
-        "Fin del Recorrido": null,
+        "Fin del Recorrido": "San Basilio & San Pedro",
         "CGM": "Turdera",
         "Localidad": "Turdera",
         "Color_Generado": "#3cb44b",
@@ -86978,8 +87062,8 @@
         "Fecha_str": "14/8/2026",
         "Inicio Recorrido": "San Basilio & San Pedro",
         "Fin del Recorrido": "San Basilio & Vicente López",
-        "CGM": null,
-        "Localidad": null,
+        "CGM": "Turdera",
+        "Localidad": "Turdera",
         "Color_Generado": "#3cb44b",
         "Distancia": 740.25,
         "Area": 0,
@@ -86997,6 +87081,28 @@
             -58.3992142993355,
             -34.7856268019793
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "14/8/2026",
+        "Inicio Recorrido": "Plaza 11 de Septiembre",
+        "Fin del Recorrido": null,
+        "CGM": "Banfield",
+        "Localidad": "Banfield",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "P",
+        "Tipo_Punto": "P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37620063660679,
+          -34.74233009185865
         ]
       }
     },
