@@ -420,8 +420,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4657104267606,
-          -34.747869653679
+          -58.4657376925338,
+          -34.7478328893861
         ]
       },
       "properties": {
@@ -768,7 +768,7 @@
       },
       "properties": {
         "fecha": "2026-05-11T03:00:00.000Z",
-        "cgm": "Santa Catalina",
+        "cgm": "Temperley",
         "tarea": "Limpieza y Desobstruccion",
         "cant": 6,
         "mts.": "",
@@ -2196,8 +2196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.3792534,
-          -34.7678337
+          -58.4817453605385,
+          -34.73610655918
         ]
       },
       "properties": {
@@ -4308,8 +4308,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.468939,
-          -34.742587
+          -58.4694120517818,
+          -34.7398665082552
         ]
       },
       "properties": {
@@ -4332,8 +4332,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.468939,
-          -34.742587
+          -58.4694120517818,
+          -34.7398665082552
         ]
       },
       "properties": {
@@ -4356,8 +4356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.42648,
-          -34.778066
+          -58.4694120517818,
+          -34.7398665082552
         ]
       },
       "properties": {
@@ -4380,8 +4380,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.469408,
-          -34.739919
+          -58.4694120517818,
+          -34.7398665082552
         ]
       },
       "properties": {
@@ -4404,8 +4404,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4694620256724,
-          -34.7399149129819
+          -58.4694120517818,
+          -34.7398665082552
         ]
       },
       "properties": {
@@ -4428,8 +4428,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4694620256724,
-          -34.7399149129819
+          -58.4694120517818,
+          -34.7398665082552
         ]
       },
       "properties": {
@@ -4452,8 +4452,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4694620256724,
-          -34.7399149129819
+          -58.4694120517818,
+          -34.7398665082552
         ]
       },
       "properties": {
@@ -5112,8 +5112,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.46941829999999,
-          -34.7399279
+          -58.4694120517818,
+          -34.7398665082552
         ]
       },
       "properties": {
@@ -5136,8 +5136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.46941829999999,
-          -34.7399279
+          -58.4694120517818,
+          -34.7398665082552
         ]
       },
       "properties": {
@@ -5160,8 +5160,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.46941829999999,
-          -34.7399279
+          -58.4694120517818,
+          -34.7398665082552
         ]
       },
       "properties": {
@@ -5184,8 +5184,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.46868088505257,
-          -34.73946040925481
+          -58.4694120517818,
+          -34.7398665082552
         ]
       },
       "properties": {
@@ -5208,8 +5208,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.46941829999999,
-          -34.7399279
+          -58.4694120517818,
+          -34.7398665082552
         ]
       },
       "properties": {
@@ -5232,8 +5232,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.46941829999999,
-          -34.7399279
+          -58.4694120517818,
+          -34.7398665082552
         ]
       },
       "properties": {
@@ -9342,8 +9342,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4292259,
-          -34.7965057
+          -58.4657376925338,
+          -34.7478328893861
         ]
       },
       "properties": {
@@ -29784,13 +29784,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.360788,
-          -34.771146
+          -58.3606355523624,
+          -34.7713232561121
         ]
       },
       "properties": {
         "fecha": "2026-05-04T03:00:00.000Z",
-        "cgm": "Temperley",
+        "cgm": "San Jose ",
         "tarea": "Limpieza y Desobstruccion",
         "cant": 5,
         "mts.": "",
@@ -36438,7 +36438,7 @@
       },
       "properties": {
         "fecha": "2026-02-24T03:00:00.000Z",
-        "cgm": "Santa Catalina",
+        "cgm": "Llavallol",
         "tarea": "Limpieza y Desobstruccion",
         "cant": 6,
         "mts.": "",
@@ -51366,8 +51366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4302476,
-          -34.76118230000001
+          -58.4657376925338,
+          -34.7478328893861
         ]
       },
       "properties": {
@@ -63816,8 +63816,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4302476,
-          -34.76118230000001
+          -58.4336522009864,
+          -34.7398008965804
         ]
       },
       "properties": {
@@ -66420,8 +66420,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.4018433,
-          -34.7563594
+          -58.3858383288639,
+          -34.7739731229586
         ]
       },
       "properties": {
@@ -66636,8 +66636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.44442,
-          -34.7976
+          -58.4812040431346,
+          -34.7348549173269
         ]
       },
       "properties": {
@@ -66660,8 +66660,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.44442,
-          -34.7976
+          -58.4812040431346,
+          -34.7348549173269
         ]
       },
       "properties": {
@@ -70014,7 +70014,7 @@
       },
       "properties": {
         "fecha": "2026-07-29T03:00:00.000Z",
-        "cgm": "SANTA MARTA",
+        "cgm": "PARQUE BARON",
         "tarea": "Limpieza y desobstruccion",
         "cant": "",
         "mts.": "",
@@ -76828,10 +76828,16 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -58.4491114,
-          -34.763931
+          [
+            -58.4518919453704,
+            -34.754608861844
+          ],
+          [
+            -58.4549397887942,
+            -34.7561681932859
+          ]
         ]
       },
       "properties": {
@@ -76841,8 +76847,8 @@
         "cant": "",
         "mts.": "",
         "tipo": "Puente vecinal",
-        "direccion_desde": "Pampero desde Bustos hasta Ohiggins",
-        "direccion_hasta": "",
+        "direccion_desde": "Pampero & Bustos",
+        "direccion_hasta": "Pampero & Ohiggins",
         "": "",
         "distancia": "",
         "nro._reporte": "",
@@ -77202,6 +77208,222 @@
         "mts.": "",
         "tipo": "Camara",
         "direccion_desde": "Hector Flores entre Polonia & Paleta",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4509754,
+          -34.7118281
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-22T03:00:00.000Z",
+        "cgm": "FIORITO",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Pilcomayo & Nuñez de Arce",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.458514,
+          -34.7303972
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-22T03:00:00.000Z",
+        "cgm": "ALBERTINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Atenas & Andres Bello",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4199941,
+          -34.7354685
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-22T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Estanzuela del Rey & Carlos Glade",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3984575,
+          -34.7621436
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-23T03:00:00.000Z",
+        "cgm": "LOMAS",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Gorriti & Meeks",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4022381,
+          -34.7591698
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-23T03:00:00.000Z",
+        "cgm": "LOMAS",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Boedo & Hipolito Yrigoyen",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3982468,
+          -34.76090629999999
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-23T03:00:00.000Z",
+        "cgm": "LOMAS",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Laprida & Meeks",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4156508,
+          -34.7573295
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-23T03:00:00.000Z",
+        "cgm": "LOMAS",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Sarmiento & Boedo",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4144681,
+          -34.7525636
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-23T03:00:00.000Z",
+        "cgm": "LOMAS",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Acevedo & Pereyra Lucena",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40126040000001,
+          -34.7617403
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-23T03:00:00.000Z",
+        "cgm": "LOMAS",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Italia & Gorriti",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
