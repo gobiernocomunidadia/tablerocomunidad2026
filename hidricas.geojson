@@ -77430,6 +77430,36 @@
         "nro._reporte": "",
         "observaciones": ""
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4741746,
+            -34.7547535
+          ],
+          [
+            -58.4741746,
+            -34.7547535
+          ]
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-24T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Nestor Kirshner & Carlos Lopez ",
+        "direccion_hasta": "Nestor Kirshner & Carlos Voss",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
     }
   ]
 }
