@@ -95627,7 +95627,7 @@
         "CGM": "Parque Baron",
         "Localidad": "Lomas De Zamora",
         "Color_Generado": "#3cb44b",
-        "Distancia": 2222,
+        "Distancia": 2001.98,
         "Area": 0,
         "marker-symbol": "O",
         "Tipo_Punto": "O"
@@ -95636,12 +95636,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -58.44012,
-            -34.75879
+            -58.4372739647301,
+            -34.7625370930736
           ],
           [
-            -58.44661,
-            -34.76724
+            -58.4466090701779,
+            -34.7672517863323
           ]
         ]
       }
@@ -95935,7 +95935,7 @@
         "CGM": "Turdera",
         "Localidad": "Turdera",
         "Color_Generado": "#3cb44b",
-        "Distancia": 614,
+        "Distancia": 1414.11,
         "Area": 0,
         "marker-symbol": "O",
         "Tipo_Punto": "O"
@@ -95948,8 +95948,8 @@
             -34.792614426055
           ],
           [
-            -58.4089966660462,
-            -34.7953744212108
+            -58.4076611386552,
+            -34.7863637863706
           ]
         ]
       }
