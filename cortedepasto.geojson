@@ -96917,7 +96917,7 @@
         "CGM": "Temperley",
         "Localidad": "Temperley",
         "Color_Generado": "#3cb44b",
-        "Distancia": 3.14,
+        "Distancia": 660.55,
         "Area": 0,
         "marker-symbol": "O",
         "Tipo_Punto": "O"
@@ -96926,8 +96926,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -58.3955148326173,
-            -34.7771619920887
+            -58.3919185449254,
+            -34.7767653778785
           ],
           [
             -58.3955041037815,
