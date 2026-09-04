@@ -73686,6 +73686,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3750977,
+          -34.7721159
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eucaliptos & El Zorzal",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.46766139999999,
           -34.7166635
         ]
@@ -81276,6 +81300,54 @@
         "mts.": "",
         "tipo": "Sumidero",
         "direccion_desde": "Antartida Argentina & San Isidro ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4786848,
+          -34.7243278
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-04T03:00:00.000Z",
+        "cgm": "LAMADRID",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Newton & Tilcara",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4750889,
+          -34.725763
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-04T03:00:00.000Z",
+        "cgm": "LAMADRID",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Iparraguirre entre Oran & Monte",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
