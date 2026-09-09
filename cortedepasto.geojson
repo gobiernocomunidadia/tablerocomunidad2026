@@ -99669,11 +99669,11 @@
       "properties": {
         "Fecha_str": "08/09/2026",
         "Inicio Recorrido": "Gallo & Palacios",
-        "Fin del Recorrido": "Gallo & Av. Adolfo Alsina",
+        "Fin del Recorrido": "Gallo & Lugano",
         "CGM": "Banfield",
         "Localidad": "Banfield",
         "Color_Generado": "#3cb44b",
-        "Distancia": 1911.36,
+        "Distancia": 651.86,
         "Area": 0,
         "marker-symbol": "O",
         "Tipo_Punto": "O"
@@ -99686,8 +99686,36 @@
             -34.7500332502545
           ],
           [
+            -58.3870515814144,
+            -34.751626497454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "08/09/2026",
+        "Inicio Recorrido": "Gallo & Av. Adolfo Alsina",
+        "Fin del Recorrido": "Gallo & Lugano",
+        "CGM": "Banfield",
+        "Localidad": "Banfield",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1382.69,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -58.3944999983258,
             -34.7505297012222
+          ],
+          [
+            -58.3870515814144,
+            -34.751626497454
           ]
         ]
       }
