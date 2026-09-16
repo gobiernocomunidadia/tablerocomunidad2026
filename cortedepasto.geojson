@@ -97884,6 +97884,34 @@
       "type": "Feature",
       "properties": {
         "Fecha_str": "03/09/2026",
+        "Inicio Recorrido": "Neuquen & Falucho",
+        "Fin del Recorrido": "Neuquen & Bernardo O´Higgins",
+        "CGM": "Santa Marta",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1909.8,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.45016,
+            -34.74608
+          ],
+          [
+            -58.459054909968,
+            -34.7505890039798
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "03/09/2026",
         "Inicio Recorrido": "Av. 9 de Julio & Av. Hipólito Yrigoyen",
         "Fin del Recorrido": "Av. 9 de Julio & Gral. Frias",
         "CGM": "Turdera",
@@ -100020,34 +100048,6 @@
       "type": "Feature",
       "properties": {
         "Fecha_str": "08/09/2026",
-        "Inicio Recorrido": "Fonrouge & Av. Adolfo Alsina",
-        "Fin del Recorrido": "Fonrouge & Cerrito",
-        "CGM": "Lomas",
-        "Localidad": "Lomas De Zamora",
-        "Color_Generado": "#3cb44b",
-        "Distancia": 3737.47,
-        "Area": 0,
-        "marker-symbol": "O",
-        "Tipo_Punto": "O"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -58.3961290793437,
-            -34.7600074059429
-          ],
-          [
-            -58.3762834,
-            -34.755933
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Fecha_str": "08/09/2026",
         "Inicio Recorrido": "Francisco Siritto & Oliden",
         "Fin del Recorrido": "Francisco Siritto & Molina Arrotea",
         "CGM": "Parque Baron",
@@ -101021,6 +101021,28 @@
         "coordinates": [
           -58.45680919430798,
           -34.72789876413898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "11/09/2026",
+        "Inicio Recorrido": "Playón Deportivo",
+        "Fin del Recorrido": null,
+        "CGM": "Budge",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4560788540269,
+          -34.7293733990151
         ]
       }
     },
