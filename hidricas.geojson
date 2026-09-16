@@ -83562,6 +83562,102 @@
         "nro._reporte": "",
         "observaciones": ""
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.45019749999999,
+          -34.70585810000001
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-15T03:00:00.000Z",
+        "cgm": "BUDGE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Azamor 1560",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.45493130000001,
+          -34.7561739
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-15T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Pampero entre Ohiggins & Terrada",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41726,
+          -34.78981
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-15T03:00:00.000Z",
+        "cgm": "TEMPERLEY",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Hipolito Yrioyen entre 25 de Mayo & Pichincha",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42583029999999,
+          -34.7186396
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-15T03:00:00.000Z",
+        "cgm": "CENTENARIO",
+        "tarea": "Colocacion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "",
+        "direccion_desde": "Darwin entre Bolonia & Amberes",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
     }
   ]
 }
