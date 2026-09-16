@@ -82896,6 +82896,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.4225818977531,
+          -34.7748474271932
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-12T03:00:00.000Z",
+        "cgm": "LOMAS",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Oliden & Sucre",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.3918889,
           -34.7767589
         ]
