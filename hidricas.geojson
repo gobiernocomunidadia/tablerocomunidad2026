@@ -83682,6 +83682,78 @@
         "nro._reporte": "",
         "observaciones": ""
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4774948,
+          -34.7259104
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-17T03:00:00.000Z",
+        "cgm": "LAMADRID",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Newton & Blandengues",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4665173,
+          -34.7290897
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-17T03:00:00.000Z",
+        "cgm": "LAMADRID",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Homero & Epecuen ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4412324,
+          -34.7494607
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-17T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Lisandro la Torre & Luis Viale",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
     }
   ]
 }
