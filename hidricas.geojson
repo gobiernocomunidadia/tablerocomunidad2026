@@ -83754,6 +83754,174 @@
         "nro._reporte": "",
         "observaciones": ""
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42271649999999,
+          -34.7792089
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-18T03:00:00.000Z",
+        "cgm": "LOMAS",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Sevilla & Oliver",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42368339999999,
+          -34.7777761
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-18T03:00:00.000Z",
+        "cgm": "",
+        "tarea": "",
+        "cant": "",
+        "mts.": "",
+        "tipo": "",
+        "direccion_desde": "Sevilla & Frias",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.420964,
+          -34.7768583
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-18T03:00:00.000Z",
+        "cgm": "",
+        "tarea": "",
+        "cant": "",
+        "mts.": "",
+        "tipo": "",
+        "direccion_desde": "Sevilla & Los Andes",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4139196,
+          -34.7648715
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-18T03:00:00.000Z",
+        "cgm": "TEMPERLEY",
+        "tarea": "",
+        "cant": "",
+        "mts.": "",
+        "tipo": "",
+        "direccion_desde": "Scalabrini Ortiz & Fernandez",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4153643,
+          -34.7780839
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-18T03:00:00.000Z",
+        "cgm": "",
+        "tarea": "",
+        "cant": "",
+        "mts.": "",
+        "tipo": "",
+        "direccion_desde": "Scalabrini Ortiz & Pringles",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44808639999999,
+          -34.7097668
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-18T03:00:00.000Z",
+        "cgm": "FIORITO",
+        "tarea": "Nivelado de Suelo",
+        "cant": "",
+        "mts.": "",
+        "tipo": "",
+        "direccion_desde": "Campana entre Benito Perez Galdos & Roberto Arlt",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4302476,
+          -34.76118230000001
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-18T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Santa Fe entre Magrassi & Rosario",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
     }
   ]
 }
