@@ -108611,6 +108611,670 @@
           -34.77212197083479
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Ostende & Evaristo Carriego",
+        "Fin del Recorrido": "Ostende & Pres. Juan Domingo Peron",
+        "CGM": "Albertina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 2434.6,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4555454089593,
+            -34.7320235473836
+          ],
+          [
+            -58.4442687504113,
+            -34.7261964560965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Belisario Roldan & Cerrito",
+        "Fin del Recorrido": "Belisario Roldan & Pintos",
+        "CGM": "Banfield",
+        "Localidad": "Banfield",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1400.1,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3701481083636,
+            -34.7527344197364
+          ],
+          [
+            -58.3712326070413,
+            -34.7465021073184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Figueredo & Claudio de Alas",
+        "Fin del Recorrido": "Figueredo & Pres. Juan Domingo Peron",
+        "CGM": "Budge",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 2457.67,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4663449544428,
+            -34.7159588700058
+          ],
+          [
+            -58.4552234565691,
+            -34.7097499146846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Unamuno & Ginebra",
+        "Fin del Recorrido": "Unamuno & Bolonia",
+        "CGM": "Centenario",
+        "Localidad": "Villa Centenario",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 939.34,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.43772882829,
+            -34.7198541010647
+          ],
+          [
+            -58.4349628676897,
+            -34.7234139364125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Conesa & Pilcomayo",
+        "Fin del Recorrido": "Conesa & Bermejo",
+        "CGM": "Fiorito",
+        "Localidad": "Villa Fiorito",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1763.49,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4386389406798,
+            -34.7040683356168
+          ],
+          [
+            -58.4334877456795,
+            -34.7107726631804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Goya & las vías",
+        "Fin del Recorrido": "Goya & Falucho",
+        "CGM": "Lamadrid",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 2309.41,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4753689729685,
+            -34.7325253178523
+          ],
+          [
+            -58.46464,
+            -34.72704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Boulevard Santa Catalina & Olleros",
+        "Fin del Recorrido": "Boulevard Santa Catalina & Húsares",
+        "CGM": "Llavallol",
+        "Localidad": "Llavallol",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 783.82,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.436204486253,
+            -34.7942419206275
+          ],
+          [
+            -58.43833,
+            -34.79118
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Loria & Monseñor Piaggio",
+        "Fin del Recorrido": "Loria & Corrientes",
+        "CGM": "Lomas",
+        "Localidad": "Lomas De Zamora",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 2990.43,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4089885540385,
+            -34.7619006337536
+          ],
+          [
+            -58.4250872223083,
+            -34.7594722678071
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "García Lorca & Isabel la Católica",
+        "Fin del Recorrido": "García Lorca & Pres. Juan Domingo Peron",
+        "CGM": "Parque Baron",
+        "Localidad": "Lomas De Zamora",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 2037.95,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4360357367317,
+            -34.7540969579679
+          ],
+          [
+            -58.4306226328688,
+            -34.7621093728566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Caaguazú & Cnel. Lynch",
+        "Fin del Recorrido": "Caaguazú & Baltazar",
+        "CGM": "San Jose",
+        "Localidad": "Temperley",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 979.51,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3475796410741,
+            -34.7398125181791
+          ],
+          [
+            -58.34606179999999,
+            -34.7440367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Gral. Costa & José Tallón",
+        "Fin del Recorrido": "Gral. Costa & Venzano",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 807.86,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4707395376852,
+            -34.7533879469883
+          ],
+          [
+            -58.4716379581519,
+            -34.7569447919847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "28 de Julio & Gral. Costa",
+        "Fin del Recorrido": "28 de Julio & David Baud",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 364.63,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4714307760816,
+            -34.7562553019719
+          ],
+          [
+            -58.469478678469,
+            -34.7565959806155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "David Baud & José Tallón",
+        "Fin del Recorrido": "David Baud & Peñaloza",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 857.38,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4692043080323,
+            -34.7554634190861
+          ],
+          [
+            -58.4701384702297,
+            -34.7592415415162
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "David Baud & Pasaje Sur",
+        "Fin del Recorrido": "Pasaje Completo",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 268.02,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4698147068442,
+            -34.757863263955
+          ],
+          [
+            -58.4683531646598,
+            -34.7577599824072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Escuela Secundaria N.° 41",
+        "Fin del Recorrido": null,
+        "CGM": "Santa Marta",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "E",
+        "Tipo_Punto": "E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40846471956933,
+          -34.791073886549654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Centro Integral de Salud Dr. Mariano Moreno",
+        "Fin del Recorrido": null,
+        "CGM": "Santa Marta",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4324881441792,
+          -34.7406746836901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Plaza Mariano Moreno",
+        "Fin del Recorrido": null,
+        "CGM": "Santa Marta",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "P",
+        "Tipo_Punto": "P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.432821658955774,
+          -34.74095255441569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Lavalle & Soler",
+        "Fin del Recorrido": "Lavalle & Guido Spano",
+        "CGM": "Temperley",
+        "Localidad": "Temperley",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 269.09,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4093287500406,
+            -34.7772856345968
+          ],
+          [
+            -58.4080727430342,
+            -34.7766533673321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Fernández & Guido Spano",
+        "Fin del Recorrido": "Fernández & Soler",
+        "CGM": "Temperley",
+        "Localidad": "Temperley",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 273.39,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4087659035745,
+            -34.7757133506145
+          ],
+          [
+            -58.4099928737868,
+            -34.7764173411596
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Pringles & Soler",
+        "Fin del Recorrido": "Pringles & Guido Spano",
+        "CGM": "Temperley",
+        "Localidad": "Temperley",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 279.42,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.410707251922,
+            -34.7755516363477
+          ],
+          [
+            -58.4094058534845,
+            -34.7748913942425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "San Luis & Luis Puig",
+        "Fin del Recorrido": "San Luis & Yrigoyen",
+        "CGM": "Turdera",
+        "Localidad": "Turdera",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1016.3,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4027805899863,
+            -34.7891634940404
+          ],
+          [
+            -58.4082834117871,
+            -34.7884848528349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Profesor Mariño & Santa María",
+        "Fin del Recorrido": "Profesor Mariño & Frías",
+        "CGM": "Turdera",
+        "Localidad": "Turdera",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1579.93,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4098501598724,
+            -34.7859160768445
+          ],
+          [
+            -58.4170449817927,
+            -34.7898602734962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Plaza San Martín",
+        "Fin del Recorrido": null,
+        "CGM": "San Jose",
+        "Localidad": "Temperley",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "P",
+        "Tipo_Punto": "P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.357375207160395,
+          -34.76292143219527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Plazoleta La Virgencita",
+        "Fin del Recorrido": null,
+        "CGM": "Turdera",
+        "Localidad": "Turdera",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "P",
+        "Tipo_Punto": "P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.404073792010905,
+          -34.795241835220686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Plaza Santa Maria De Los Niños",
+        "Fin del Recorrido": null,
+        "CGM": "Turdera",
+        "Localidad": "Turdera",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "P",
+        "Tipo_Punto": "P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.396810886494926,
+          -34.788786667082405
+        ]
+      }
     }
   ]
 }
