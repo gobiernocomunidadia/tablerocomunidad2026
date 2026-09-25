@@ -106914,6 +106914,34 @@
       "type": "Feature",
       "properties": {
         "Fecha_str": "18/09/2026",
+        "Inicio Recorrido": "Ostende & Pío Baroja",
+        "Fin del Recorrido": "Itatí & Pío Baroja",
+        "CGM": "Centenario",
+        "Localidad": "Villa Centenario",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 190.42,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4385766346597,
+            -34.7231427168891
+          ],
+          [
+            -58.4380320497886,
+            -34.7238726317959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "18/09/2026",
         "Inicio Recorrido": "Ostende & Unamuno",
         "Fin del Recorrido": "Ostende & Pío Baroja",
         "CGM": "Centenario",
@@ -107208,6 +107236,34 @@
           [
             -58.4286531690336,
             -34.7555221212526
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "18/09/2026",
+        "Inicio Recorrido": "Gorriti & Maestra Catalina Rodriguez",
+        "Fin del Recorrido": "Gorriti & Alberto Gomes",
+        "CGM": "Lomas",
+        "Localidad": "Lomas De Zamora",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 966.76,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4258836699611,
+            -34.7582814832284
+          ],
+          [
+            -58.4311028042702,
+            -34.7575662198465
           ]
         ]
       }
@@ -107852,6 +107908,28 @@
       "type": "Feature",
       "properties": {
         "Fecha_str": "21/09/2026",
+        "Inicio Recorrido": "Plaza Canada",
+        "Fin del Recorrido": null,
+        "CGM": "Budge",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "P",
+        "Tipo_Punto": "P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.46333532425214,
+          -34.72633172158324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "21/09/2026",
         "Inicio Recorrido": "Plaza Soldado Lena",
         "Fin del Recorrido": null,
         "CGM": "Centenario",
@@ -107922,6 +108000,34 @@
           [
             -58.4348144162077,
             -34.7210407090717
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "21/09/2026",
+        "Inicio Recorrido": "Larrazabal & Bermejo",
+        "Fin del Recorrido": "Larrazabal & Pilcomayo",
+        "CGM": "Fiorito",
+        "Localidad": "Villa Fiorito",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1749,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.43414,
+            -34.71111
+          ],
+          [
+            -58.43911,
+            -34.70439
           ]
         ]
       }
@@ -108945,6 +109051,28 @@
             -58.469478678469,
             -34.7565959806155
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "22/09/2026",
+        "Inicio Recorrido": "Pje. San Francisco de Asís",
+        "Fin del Recorrido": null,
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4712407160765,
+          -34.7554578997279
         ]
       }
     },
