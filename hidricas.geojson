@@ -86346,6 +86346,1110 @@
         "nro._reporte": "",
         "observaciones": ""
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4405383,
+          -34.7025341
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "FIORITO",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Pilar & Larrazabal",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3881101,
+          -34.7808487
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "TEMPERLEY",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Triunvirato & Arroyito",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3869515,
+          -34.7823868
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "TEMPERLEY",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Indalecio Gomez & Arroyito",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38596139999999,
+          -34.7835717
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "TEMPERLEY",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Florencio Varela & Arroyito",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3878212,
+          -34.7828598
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "TEMPERLEY",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Indalecio Gomez & Lorenzini",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4571628,
+          -34.7496513
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Neuquen  entre Iparraguirre & Terrada",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.46116659999999,
+          -34.7442944
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "ALBERTINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Oyarzun & Iparraguirre",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38868830000001,
+          -34.780113
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "TEMPERLEY",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Jacinto Rosso & Lorenzini",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.36781980000001,
+          -34.7658609
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "La Calandrira & Ravel",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3572096,
+          -34.7672128
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Salta & Alvear",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3578189,
+          -34.7663878
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Salta & Gaboto",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3932282,
+          -34.748467
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "El Tala & Piocolivadino",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3725178,
+          -34.7552291
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Riobamba & Carhue",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4636291,
+          -34.7389298
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "ALBERTINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Bustos & Zuloaga",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4571628,
+          -34.7496513
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Neuquen entre Iparraguirre & Bustos",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4423653,
+          -34.7001055
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "FIORITO",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Larrazabal & Calingasta",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4446419,
+          -34.6993678
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "FIORITO",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Chivilcoy entre Murature & Plumerillo",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4446419,
+          -34.6993678
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "PARQUE BARON",
+        "tarea": "Colocacion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Chivilcoy entre Murature & Plumerillo",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4524486,
+          -34.7579817
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "PARQUE BARON",
+        "tarea": "Colocacion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Caño Cemento",
+        "direccion_desde": "Terrada entre El Zonda & Uspallata",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4524486,
+          -34.7579817
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "PARQUE BARON",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Caño Cemento",
+        "direccion_desde": "Terrada entre El Zonda & Uspallata",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4524486,
+          -34.7579817
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "PARQUE BARON",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "El Zonda entre Terrada & Ohiggins",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4486651,
+          -34.7341297
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "ALBERTINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Ricardo Palma & Paris",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4756472,
+          -34.7475395
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Camilo Mandelli 2022",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4721448,
+          -34.7477268
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Quiroga & Giachino",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4626823,
+          -34.7484715
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Calle 4 & 102 (Barrio Obrero)",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4753601,
+          -34.737478
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Cabo Caseres & Manuela Pedraza",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4626823,
+          -34.7484715
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Calle 108 entre 2 & 4 (Barrio Obrero)",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.458514,
+          -34.7303972
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-25T03:00:00.000Z",
+        "cgm": "ALBERTINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Ginebra & Andres Bello",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44549310000001,
+          -34.74507699999999
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Belen entre Vernet & Mayor Olivero",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.39022309999999,
+          -34.7511331
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "BANFIELD",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Viamonte & Gallo",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38231839999999,
+          -34.7481047
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "BANFIELD",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Capdevila & Peña",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3805132,
+          -34.7459882
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "BANFIELD",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Granaderos & Quintana ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3787221,
+          -34.7473278
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "BANFIELD",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Gallo & Quintana ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3792793,
+          -34.746558
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "BANFIELD",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Peña & Quintana ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3771067,
+          -34.7475121
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "BANFIELD",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Derqui & Melo",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4626823,
+          -34.7484715
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Calle 103 & Calle 3 (Barrio Obrero)",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3774253,
+          -34.7527845
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "BANFIELD",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Pedernera & Brito",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4626823,
+          -34.7484715
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Calle 106 entre 2 & 3 (Barrio Obrero)",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4426938,
+          -34.74766
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Florencio Sanchez entre Braile & Cid Guidi de Franc",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4426938,
+          -34.74766
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Florencio Sanchez entre Braile & Cid Guidi de Franc",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4458035,
+          -34.7443827
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Florencio Sanchez entre Timoteo Gordillo & Cid Guidi de Franc",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4458035,
+          -34.7443827
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Florencio Sanchez entre Timoteo Gordillo & Cid Guidi de Franc",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.46912500000001,
+          -34.7503172
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Calle 105 & Calle 3 ( Barrio Obrero)",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4516239,
+          -34.7590819
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Colocacion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Caño Cemento",
+        "direccion_desde": "Terrada entre Uspallata & Troperos",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4771938,
+          -34.7452729
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Rosario desde Lujan hasta Magrassi",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.448275,
+          -34.7634809
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "PARQUE BARON",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Terrada desde El Zonda hasta Troperos",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
     }
   ]
 }
