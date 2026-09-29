@@ -112361,7 +112361,7 @@
         "CGM": "San Jose",
         "Localidad": "Temperley",
         "Color_Generado": "#3cb44b",
-        "Distancia": null,
+        "Distancia": 381.91,
         "Area": 0,
         "marker-symbol": "O",
         "Tipo_Punto": "O"
@@ -112370,8 +112370,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            null,
-            -58.370181590992374
+            -58.370181590992374,
+            -34.7656845720238
           ],
           [
             -58.3711484981429,
