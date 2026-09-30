@@ -112272,6 +112272,34 @@
       "type": "Feature",
       "properties": {
         "Fecha_str": "28/09/2026",
+        "Inicio Recorrido": "Camino de la Ribera & Gral. Hornos",
+        "Fin del Recorrido": "Camino de la Ribera & Dr. José María Rosa",
+        "CGM": "Fiorito",
+        "Localidad": "Villa Fiorito",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 638.1,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.446544295517,
+            -34.6890569332453
+          ],
+          [
+            -58.4484483186214,
+            -34.6914614653504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "28/09/2026",
         "Inicio Recorrido": "Limay & Bruno Tavano",
         "Fin del Recorrido": "Limay & las vias",
         "CGM": "Lamadrid",
@@ -112292,6 +112320,34 @@
           [
             -58.4780454473469,
             -34.7305518794347
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "28/09/2026",
+        "Inicio Recorrido": "Garibaldi & Luzuriaga",
+        "Fin del Recorrido": "Garibaldi & De la Peña",
+        "CGM": "Llavallol",
+        "Localidad": "Llavallol",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 855.6,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.43651,
+            -34.78669
+          ],
+          [
+            -58.4325370552745,
+            -34.7846516786473
           ]
         ]
       }
