@@ -46168,6 +46168,36 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3418051880709,
+            -34.7570415073276
+          ],
+          [
+            -58.3425669177385,
+            -34.7574382170614
+          ]
+        ]
+      },
+      "properties": {
+        "fecha": "2026-05-29T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Garay & Chingolo",
+        "direccion_hasta": "Garay & La perdiz",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -58.45822720050147,
@@ -48570,6 +48600,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.4161710426895,
+          -34.8059038359523
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-04T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Colocacion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Caño Cemento",
+        "direccion_desde": "Cuyo & Arroyo del rey",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4500506,
           -34.7069694
         ]
@@ -48606,6 +48660,30 @@
         "mts.": "",
         "tipo": "Camara",
         "direccion_desde": "Figeueredo & Benito perez galdos",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4161710426895,
+          -34.8059038359523
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-05T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Colocacion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Caño Cemento",
+        "direccion_desde": "Cuyo & Arroyo del rey",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -49974,6 +50052,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.4173840672434,
+          -34.8025146244491
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-08T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "1 de Marzo & Arroyo del Rey",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.42336969999999,
           -34.7795644
         ]
@@ -50358,6 +50460,78 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3394293343158,
+          -34.7504101793517
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-08T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Donato Alvarez & Eva peron ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3394293343158,
+          -34.7504101793517
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-08T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Donato Alvarez & Eva peron ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3431543984583,
+          -34.7521447809873
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-08T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva peron & Caguazu ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4146647,
           -34.8076695
         ]
@@ -50653,6 +50827,54 @@
         "tipo": "Caño Cemento",
         "direccion_desde": "Montiel & Puerto Argentino",
         "direccion_hasta": "Montiel & Rawson",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3495037301409,
+          -34.7554365870571
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-09T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & San Cristobal",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3495037301409,
+          -34.7554365870571
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-09T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Eva Peron & San Cristobal",
+        "direccion_hasta": "",
         "": "",
         "distancia": "",
         "nro._reporte": "",
@@ -50970,6 +51192,54 @@
         "mts.": "",
         "tipo": "Camara",
         "direccion_desde": "Bustos & Zuloaga ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3487188159305,
+          -34.7416694305
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-10T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Armesti & Defensa",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3499350676066,
+          -34.7423089389198
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-10T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Armesti & Luis Agote",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -53416,6 +53686,36 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3415103790787,
+            -34.7561973592711
+          ],
+          [
+            -58.3417893159405,
+            -34.75545693195
+          ]
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-16T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Caaguazu & Las Golondrinas",
+        "direccion_hasta": "Caaguazu & El Zorzal",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -58.4582272,
@@ -53760,6 +54060,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.4669285637766,
+          -34.7498516572626
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-17T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Calle 2&106",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4512605,
           -34.724125
         ]
@@ -53821,6 +54145,36 @@
         "tipo": "Caño Cemento",
         "direccion_desde": "Juana Azurduy entre Santos Vega & 1 De Marzo",
         "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3403568214367,
+            -34.7562747383155
+          ],
+          [
+            -58.3417837285056,
+            -34.7570592751729
+          ]
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-17T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Garay & Lules",
+        "direccion_hasta": "Garay & El Chingolo",
         "": "",
         "distancia": "",
         "nro._reporte": "",
@@ -54576,6 +54930,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3417837285056,
+          -34.7570592751729
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-18T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Garay & El Chingolo",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4287929,
           -34.8080522
         ]
@@ -54876,6 +55254,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3394293343158,
+          -34.7504101793517
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-19T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Donato Alvarez",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4429946,
           -34.7215226
         ]
@@ -55152,6 +55554,30 @@
         "mts.": "",
         "tipo": "Sumidero",
         "direccion_desde": "Eva Peron & Suecia",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3414025874814,
+          -34.7512720393339
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-19T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Zurich ",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -57426,6 +57852,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3394293343158,
+          -34.7504101793517
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-25T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Donato Alvarez & Eva Peron",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3394293343158,
+          -34.7504101793517
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-25T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Donato Alvarez & Eva Peron",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4044509,
           -34.7629946
         ]
@@ -57462,6 +57936,30 @@
         "mts.": "",
         "tipo": "Camara",
         "direccion_desde": "Pasco & Zurich",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3431543984583,
+          -34.7521447809873
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-25T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Caaguazu",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -58038,6 +58536,30 @@
         "mts.": "",
         "tipo": "Camara",
         "direccion_desde": "Murature & Necol",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4496545269776,
+          -34.7442127499668
+        ]
+      },
+      "properties": {
+        "fecha": "2026-06-26T03:00:00.000Z",
+        "cgm": "ALBERTINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Lavarden & Martín Rodriguez",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -60060,6 +60582,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.4345886864217,
+          -34.7543219285448
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-01T03:00:00.000Z",
+        "cgm": "PARQUE BARON",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Presidente Peron & Arroyo del Rey",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.43745509999999,
           -34.7328642
         ]
@@ -60588,6 +61134,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.4161710426895,
+          -34.8059038359523
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-02T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Colocacion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Caño Cemento",
+        "direccion_desde": "Cuyo & Arroyo del Rey",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4362138,
           -34.7550927
         ]
@@ -60648,6 +61218,30 @@
         "mts.": "",
         "tipo": "Puente vecinal",
         "direccion_desde": "Terrada desde Ramallo hasta Zuloaga",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4161710426895,
+          -34.8059038359523
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-02T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Colocacion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Caño Cemento",
+        "direccion_desde": "Cuyo & Arroyo del Rey",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -61224,6 +61818,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.4161710426895,
+          -34.8059038359523
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-03T03:00:00.000Z",
+        "cgm": "LLAVALLOL",
+        "tarea": "Zanjeo y limpieza",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Cuyo & Arroyo del Rey",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.35218209999999,
           -34.7567999
         ]
@@ -61284,6 +61902,126 @@
         "mts.": "",
         "tipo": "Conducto",
         "direccion_desde": "Calle 107 & Calle 2(Obrero)",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3495037301409,
+          -34.7554365870571
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-03T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & San Cristobal",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3495037301409,
+          -34.7554365870571
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-03T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Eva Peron & San Cristobal",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3431543984583,
+          -34.7521447809873
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-03T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Caaguazu",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3414025874814,
+          -34.7512720393339
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-03T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Zurich",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3414025874814,
+          -34.7512720393339
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-03T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Eva Peron & Zurich",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -61716,6 +62454,54 @@
         "mts.": "",
         "tipo": "Camara",
         "direccion_desde": "Figueredo & Conesa",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3394293343158,
+          -34.7504101793517
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-06T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Donato Alvarez",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3414025874814,
+          -34.7512720393339
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-06T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Zurich",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -62772,6 +63558,30 @@
         "mts.": "",
         "tipo": "Sumidero",
         "direccion_desde": "Palacios & Namuncura",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3394293343158,
+          -34.7504101793517
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-09T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Donato Alvarez & Eva Peron",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -64032,6 +64842,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3485714886922,
+          -34.7513827402677
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-14T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Colocacion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Caño Cemento",
+        "direccion_desde": "Yatay & El Trebol",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4546842,
           -34.7529751
         ]
@@ -64956,6 +65790,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3414025874814,
+          -34.7512720393339
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-16T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Zurich",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4839218,
           -34.7417463
         ]
@@ -64992,6 +65850,30 @@
         "mts.": "",
         "tipo": "Puente vecinal",
         "direccion_desde": "Sarmiento entre Benito Perez Galdos & Pio Baroja",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3431543984583,
+          -34.7521447809873
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-16T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Caaguazu",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -65376,6 +66258,30 @@
         "mts.": "",
         "tipo": "Sumidero",
         "direccion_desde": "Hipolito Yrigoyen & Molina Arrotea",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4046582556147,
+          -34.7699197971807
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-17T03:00:00.000Z",
+        "cgm": "LOMAS",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Hipolito Yrigoyen & Bustamante",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -65904,6 +66810,30 @@
         "mts.": "",
         "tipo": "Sumidero",
         "direccion_desde": "Eva Peron & Picaflor",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3431543984583,
+          -34.7521447809873
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-18T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Caaguazu",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -68346,6 +69276,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3431543984583,
+          -34.7521447809873
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-25T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Caguazu & Eva Peron",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.35218209999999,
           -34.7567999
         ]
@@ -70008,6 +70962,78 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.452292258466,
+          -34.7456450146836
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-29T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Punta Alta & Tavano",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.452292258466,
+          -34.7456450146836
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-29T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Punta Alta & Tavano",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.452292258466,
+          -34.7456450146836
+        ]
+      },
+      "properties": {
+        "fecha": "2026-07-29T03:00:00.000Z",
+        "cgm": "SANTA MARTA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Punta Alta & Tavano",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.44101000000001,
           -34.73936
         ]
@@ -70680,6 +71706,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3394293343158,
+          -34.7504101793517
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-01T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Donato Alvarez & Eva Peron",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3394293343158,
+          -34.7504101793517
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-01T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Donato Alvarez & Eva Peron",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.46111690000001,
           -34.7166608
         ]
@@ -70788,6 +71862,30 @@
         "mts.": "",
         "tipo": "Camara",
         "direccion_desde": "Eva Peron & Santa Ana",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3431543984583,
+          -34.7521447809873
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-01T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Caaguazu",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -73350,6 +74448,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.4046582556147,
+          -34.7699197971807
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-06T03:00:00.000Z",
+        "cgm": "LOMAS",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Hipolito Yrigoyen & Bustamante",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.407282,
           -34.7846106
         ]
@@ -73638,6 +74760,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3394293343158,
+          -34.7504101793517
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-06T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Donato Alvarez",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3394293343158,
+          -34.7504101793517
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-06T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Eva Peron & Donato Alvarez",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4549108,
           -34.7261265
         ]
@@ -73842,6 +75012,78 @@
         "mts.": "",
         "tipo": "Camara",
         "direccion_desde": "Eva Peron & Benteveo",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3495037301409,
+          -34.7554365870571
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & San Cristobal",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3431543984583,
+          -34.7521447809873
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Caaguazu",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3431543984583,
+          -34.7521447809873
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Eva Peron & Caaguazu",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -74094,6 +75336,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3414025874814,
+          -34.7512720393339
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Zurich",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3414025874814,
+          -34.7512720393339
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Eva Peron & Zurich",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4853435,
           -34.73968869999999
         ]
@@ -74106,6 +75396,54 @@
         "mts.": "",
         "tipo": "Puente vecinal",
         "direccion_desde": "Ruben Martell & Yaben",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3421596721209,
+          -34.746176098387
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Donato Alvarez & Madre Selva",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3421596721209,
+          -34.746176098387
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-07T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Camara",
+        "direccion_desde": "Donato Alvarez & Madre Selva",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -75415,6 +76753,36 @@
         "tipo": "Puente vecinal",
         "direccion_desde": "Vernet & Fournier",
         "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.3600555712929,
+            -34.7632983455635
+          ],
+          [
+            -58.3594010712939,
+            -34.7642414189262
+          ]
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-12T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Puente vecinal",
+        "direccion_desde": "Salta & El Churrinche",
+        "direccion_hasta": "Salta & El Zorzal",
         "": "",
         "distancia": "",
         "nro._reporte": "",
@@ -77634,6 +79002,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3495037301409,
+          -34.7554365870571
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-24T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & San Cristobal ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3431543984583,
+          -34.7521447809873
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-24T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Caaguazu ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4044509,
           -34.7629946
         ]
@@ -77646,6 +79062,30 @@
         "mts.": "",
         "tipo": "Sumidero",
         "direccion_desde": "Pasco & Zurich",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3394293343158,
+          -34.7504101793517
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-24T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Eva Peron & Donato Alvarez",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -78774,6 +80214,30 @@
         "mts.": "",
         "tipo": "Sumidero",
         "direccion_desde": "Hipolito Yrigoyen & Molina Arrotea",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4046582556147,
+          -34.7699197971807
+        ]
+      },
+      "properties": {
+        "fecha": "2026-08-27T03:00:00.000Z",
+        "cgm": "LOMAS",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Hipolito Yrigoyen & Bustamante",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -80880,6 +82344,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.4046582556147,
+          -34.7699197971807
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-02T03:00:00.000Z",
+        "cgm": "LOMAS",
+        "tarea": "Limpieza a mano",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Bustamante & Hipolito Yrigoyen ",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4074854,
           -34.7855271
         ]
@@ -81240,6 +82728,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3487188159305,
+          -34.7416694305
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-03T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Armesti & Defensa",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3491589582031,
+          -34.7583390318114
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-03T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "El Churrinche & La Torcaza",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.4302476,
           -34.76118230000001
         ]
@@ -81276,6 +82812,30 @@
         "mts.": "",
         "tipo": "Sumidero",
         "direccion_desde": "Fernandez esquina Meeks",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3981332996253,
+          -34.7767573707311
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-03T03:00:00.000Z",
+        "cgm": "TEMPERLEY",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "25 de Mayo & Espora",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
@@ -87238,6 +88798,36 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4676366853086,
+            -34.7488907698493
+          ],
+          [
+            -58.4656947753856,
+            -34.7479034127031
+          ]
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-28T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Calle 104 & 2 ",
+        "direccion_hasta": "Calle 104 & 3",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -58.4626823,
@@ -87886,6 +89476,36 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4679800106117,
+            -34.7483794709572
+          ],
+          [
+            -58.4660488374614,
+            -34.7474097501261
+          ]
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-30T03:00:00.000Z",
+        "cgm": "SANTA CATALINA",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Conducto",
+        "direccion_desde": "Calle 103 & 2 ",
+        "direccion_hasta": "Calle 103 & 3",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -58.45492050000001,
@@ -87924,6 +89544,30 @@
         "mts.": "",
         "tipo": "Sumidero",
         "direccion_desde": "Monseñor Shell & Arenales",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3833784594324,
+          -34.7744390420471
+        ]
+      },
+      "properties": {
+        "fecha": "2026-09-30T03:00:00.000Z",
+        "cgm": "TEMPERLEY",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Calderon de la Barca & Malvinas Argentina",
         "direccion_hasta": "",
         "": "",
         "distancia": "",
