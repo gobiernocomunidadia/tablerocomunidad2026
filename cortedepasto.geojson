@@ -114416,6 +114416,34 @@
       "type": "Feature",
       "properties": {
         "Fecha_str": "01/10/2026",
+        "Inicio Recorrido": "Juan Manuel Marquina & Carlos A. López",
+        "Fin del Recorrido": "General Goodwyn & Juan Manuel Marquina",
+        "CGM": "Santa Catalina",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 435.95,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4748332340019,
+            -34.7545487571082
+          ],
+          [
+            -58.4735662997518,
+            -34.7562098417812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "01/10/2026",
         "Inicio Recorrido": "Homero & Arlucea",
         "Fin del Recorrido": "Homero & Urunday",
         "CGM": "Santa Marta",
