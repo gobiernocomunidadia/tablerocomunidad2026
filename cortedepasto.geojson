@@ -113574,6 +113574,28 @@
       "type": "Feature",
       "properties": {
         "Fecha_str": "30/09/2026",
+        "Inicio Recorrido": "Plaza 22 De Mayo  (Barrio Odisa)",
+        "Fin del Recorrido": null,
+        "CGM": "Santa Marta",
+        "Localidad": "Ingeniero Budge",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "P",
+        "Tipo_Punto": "P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43544006525333,
+          -34.73815361822311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "30/09/2026",
         "Inicio Recorrido": "Av. Cabred & Mitre",
         "Fin del Recorrido": null,
         "CGM": "Temperley",
@@ -113611,6 +113633,34 @@
         "coordinates": [
           -58.3745903470027,
           -34.7731717244616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "30/09/2026",
+        "Inicio Recorrido": "San Mateo & Pichincha",
+        "Fin del Recorrido": "San Mateo & San Rafael",
+        "CGM": "Turdera",
+        "Localidad": "Turdera",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 1305.56,
+        "Area": 0,
+        "marker-symbol": "O",
+        "Tipo_Punto": "O"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.4140584865002,
+            -34.7871712943148
+          ],
+          [
+            -58.4101619055472,
+            -34.7920930116287
+          ]
         ]
       }
     },
