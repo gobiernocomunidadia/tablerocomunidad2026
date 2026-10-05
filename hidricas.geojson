@@ -90084,6 +90084,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.3443699741632,
+          -34.7482306334071
+        ]
+      },
+      "properties": {
+        "fecha": "2026-10-02T03:00:00.000Z",
+        "cgm": "SAN JOSE",
+        "tarea": "Limpieza y desobstruccion",
+        "cant": "",
+        "mts.": "",
+        "tipo": "Sumidero",
+        "direccion_desde": "Caaguazu & El Tala",
+        "direccion_hasta": "",
+        "": "",
+        "distancia": "",
+        "nro._reporte": "",
+        "observaciones": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.3528017,
           -34.74562890000001
         ]
