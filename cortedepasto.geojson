@@ -115313,6 +115313,28 @@
           -34.74990577654883
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fecha_str": "02/10/2026",
+        "Inicio Recorrido": "Plazoleta Enrique Castillo",
+        "Fin del Recorrido": null,
+        "CGM": "Lomas",
+        "Localidad": "Lomas De Zamora",
+        "Color_Generado": "#3cb44b",
+        "Distancia": 0,
+        "Area": 0,
+        "marker-symbol": "P",
+        "Tipo_Punto": "P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4321843183993,
+          -34.74990577654883
+        ]
+      }
     }
   ]
 }
