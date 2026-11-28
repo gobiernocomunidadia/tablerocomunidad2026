@@ -22,5 +22,13 @@
     "detalle": "Error crítico: API call to drive.files.create failed with error: Bad Request",
     "resumen": "-",
     "linkPdf": "https://boletinoficial.gba.gob.ar/secciones/14533/ver"
+  },
+  {
+    "fecha": "28/11/2026",
+    "hora": "10:50:18",
+    "boletin": "Boletín Provincia BA",
+    "detalle": "Error crítico: API call to drive.files.create failed with error: Bad Request",
+    "resumen": "-",
+    "linkPdf": "https://boletinoficial.gba.gob.ar/secciones/14533/ver"
   }
 ]
